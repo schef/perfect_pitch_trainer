@@ -23,7 +23,7 @@ func play_question():
 	MidiPlayer.playMultipleNotesHarmonicly(batch["question"])
 
 func play_anwser():
-	MidiPlayer.playMultipleNotesHarmonicly(batch["anwser"])
+	MidiPlayer.playMultipleNotesMelodicly(batch["anwser"])
 	
 func show_debug():
 	set_label(ElementIndex.DEBUG_LABEL, str(batch))

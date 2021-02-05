@@ -43,6 +43,10 @@ run/main_scene="res://scenes/splash.tscn"
 boot_splash/fullsize=false
 config/icon="res://icon.png"
 
+[audio]
+
+enable_audio_input=true
+
 [autoload]
 
 Global="*res://scripts/global.gd"

@@ -10,10 +10,12 @@ class NoteAction:
 var noteActionQueue = []
 
 func _ready():
-	var n = NoteSample.new()
-	n.stream = preload("res://ogg/060.ogg")
-	n.value = 60
-	samples.append(n)
+	for pitch in range(24, 108):
+		var n = NoteSample.new()
+		var path = "res://ogg/%03d.ogg" % [pitch]
+		n.stream = load(path)
+		n.value = pitch
+		samples.append(n)
 
 func getMillis():
 	return OS.get_system_time_msecs()
