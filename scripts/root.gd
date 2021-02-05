@@ -2,7 +2,7 @@ extends "res://scripts/template.gd"
 
 func init_header():
 	title.text = Global.get_title()
-	subtitle.text = Global.get_description()
+	subtitle.text = "%s\n%s" % [Global.get_description(), Global.VERSION]
 
 func init_scroll_array():
 	var buttonIndex = 0

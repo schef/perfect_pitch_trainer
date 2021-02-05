@@ -197,6 +197,27 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 255,
+            "title": "More",
+            "description": "Here are some more options.",
+            "practices": [
+                {
+                    "id": 0,
+		    "title": "Settings",
+		    "maxHits" : 1,
+                    "description": "Custom configuration.",
+                    "practiceType" : "SETTINGS"
+                },
+                {
+                    "id": 1,
+		    "title": "Experiments",
+		    "maxHits" : 1,
+                    "description": "Experimenting easy.",
+                    "practiceType" : "EXPERIMENTS"
+                }
+	    ]
         }
     ]
 }

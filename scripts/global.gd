@@ -1,5 +1,8 @@
 extends Node
 
+const VERSION = "1.6.0-rc1"
+const EXPORT_PATH = "apk/perfect_pitch_trainer_"
+
 var root
 var rng
 var masterclass_index = -1
@@ -22,6 +25,7 @@ func _ready():
 	load_root()
 	load_rng()
 	load_file()
+	set_version()
 	
 func get_root():
 	return root
@@ -143,3 +147,11 @@ func is_masterclass_finished(masterclass_id):
 		if (!is_practice_finished(masterclass_id, practice["id"])):
 			return false
 	return true
+
+func set_version():
+	var preset = ConfigFile.new()
+	preset.load("res://export_presets.cfg")
+	preset.set_value("preset.0.options", "version/name", VERSION)
+	preset.set_value("preset.0", "export_path", EXPORT_PATH + VERSION)
+	preset.save("res://export_presets.cfg")
+	property_list_changed_notify()
