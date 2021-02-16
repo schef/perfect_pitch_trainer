@@ -480,6 +480,83 @@
 			]
 		},
 		{
+			"id": 7,
+			"title": "Masterclass 7",
+			"description": "",
+			"practices": [
+				{
+					"id": 0,
+					"title": "Listen to masterclass",
+					"description": "Audio book player. Here you will listen to David Lucas Burge audio book.",
+					"maxHits": 1,
+					"practiceType": "PLAYER",
+					"link": "https://www.youtube.com/watch?v=ndN0EsreAqw"
+				},
+				{
+					"id": 1,
+					"title": "Comments",
+					"description": "Comments on the masterclass.",
+					"maxHits": 1,
+					"practiceType": "COMMENTS",
+					"text": "[b]Keywords[/b]\nYou with perfect pitch will be able to play far more better by ear then you without.\nExercise\n\n[i]Solo keyboard[/i]\n[ul](2) Reach out and play any white tone anywhere on the keyboard and name it. We're using the C major scale so you would know the tones by relative pitch. At this point we don't have full color discrimination. So the ear needs something to latch on to in order to know the tone. And thats fine if you know the tone by relative pitch. Just name the pitch. Don't be to hasty with your pitch naming. Go slowly. Listen to the tone. Take an interest in the tone. Allow a tone to soak for a moment. Something else is happening inside. If you get it wrong then pause. Listen to both tones. And you can even listen to it in a relationship to the C. One verification round.[/ul]\n\n[i]Solo guitars[/i]\nTwo stings at a time and unlock them by ear. From the bottom up. Reach out and play any two open strings and indentify them. Don't worry about finger knowlidge.\n\n[i]Meditation[/i]\n[ul](3) C, D and E. When ever we seat to practice we think of a C and sing it. We need to correct our error.[/ul]\n\n[i]Team players[/i]\n(4) C, D and E. Harmonic and melodic pitch indentification.\n[ul](5) Single. Single tone pitch nameing drill.\n(6) Melodic doubles.\n(7) Harmonic doubles.[/ul]\n\nCorrect the error. This is where the ear traning comes in. We need to get listening benefit. We listen again to open more and more.\nSing a C and check. Sing a E. Take you timer and be very present in the moment. No verification round."
+				},
+				{
+					"id": 2,
+					"title": "(2) Name any white tone",
+					"description": "Reach out and play any white tone anywhere o    n the keyboard and name it. We're using the C major scale so you would know the tones by relative pitch.",
+					"maxHits": 20,
+					"practiceType": "PITCH_NAMING_DRILL",
+					"practiceBatch": [
+					]
+				},
+				{
+					"id": 3,
+					"title": "(3) C, D and E meditation",
+					"description": "C, D and E. When ever we seat to practice we think of a C and sing it. We need to correct our error.",
+					"maxHits": 20,
+					"practiceType": "MEDITATION",
+					"practiceBatch": [
+					]
+				},
+				{
+					"id": 4,
+					"title": "(4) C, D and E naming",
+					"description": "C, D and E. Harmonic and melodic pitch indentification.",
+					"maxHits": 20,
+					"practiceType": "PITCH_NAMING_DRILL",
+					"practiceBatch": [
+					]
+				},
+				{
+					"id": 5,
+					"title": "(5) Single naming",
+					"description": "Single tone pitch nameing drill.",
+					"maxHits": 20,
+					"practiceType": "PITCH_NAMING_DRILL",
+					"practiceBatch": [
+					]
+				},
+				{
+					"id": 6,
+					"title": "(6) Melodic doubles.",
+					"description": "Melodic doubles.",
+					"maxHits": 20,
+					"practiceType": "PITCH_IDENTIFY_DRILL",
+					"practiceBatch": [
+					]
+				},
+				{
+					"id": 7,
+					"title": "(7) Harmonic doubles.",
+					"description": "Harmonic doubles.",
+					"maxHits": 20,
+					"practiceType": "PITCH_IDENTIFY_DRILL",
+					"practiceBatch": [
+					]
+				}
+			]
+		},
+		{
 			"id": 255,
 			"title": "More",
 			"description": "Here are some more options.",
