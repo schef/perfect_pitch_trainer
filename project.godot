@@ -45,7 +45,7 @@ config/icon="res://icon.png"
 
 [audio]
 
-enable_audio_input=true
+default_bus_layout=""
 
 [autoload]
 
