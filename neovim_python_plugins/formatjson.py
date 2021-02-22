@@ -13,6 +13,7 @@ class Translator(object):
         shouldDecrese = False
         lines = []
         self.nvim.feedkeys("gg=G")
+        self.nvim.command("%!python -m json.tool")
         for el, line in enumerate(self.nvim.current.buffer):
             for ec, char in enumerate(line):
                 if (char == "{"):
