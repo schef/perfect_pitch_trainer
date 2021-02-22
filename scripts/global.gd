@@ -1,6 +1,6 @@
 extends Node
 
-const VERSION = "1.6.0-rc3"
+const VERSION = "1.6.0-rc4"
 const EXPORT_PATH = "apk/perfect_pitch_trainer_"
 
 var root

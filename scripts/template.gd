@@ -49,6 +49,17 @@ func set_label(index: int, text: String):
 #	if (event is InputEventScreenDrag):
 #		scroll_container.scroll_horizontal -= event.relative.x
 
+func _gui_event(event):
+	print("event:", event)
+
+func _input (event):
+	if event is InputEventScreenTouch:
+		#move_player(get_touch_location(event.position), FingerAction.PRESS if event.is_pressed() else FingerAction.RELEASE, event.index)
+		print("touch:", event.position)
+	elif event is InputEventScreenDrag:
+		#move_player(get_touch_location(event.position), FingerAction.DRAG, event.index)
+		print("drag:", event.position)
+
 func init():
 	pass
 
@@ -62,4 +73,3 @@ func _ready():
 	init()
 	init_header()
 	init_scroll_array()
-
