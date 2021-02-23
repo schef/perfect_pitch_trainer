@@ -1,5 +1,5 @@
 extends Node
-onready var scroll_container = $ColorRect/MarginContainer/VBoxContainer/ScrollContainer
+onready var scroll_container : ScrollContainer = $Display/MarginContainer/VBoxContainer/ScrollContainer
 onready var title : Label = $Display/MarginContainer/VBoxContainer/Header/Title
 onready var subtitle : Label = $Display/MarginContainer/VBoxContainer/Header/Subtitle
 onready var scroll_array : VBoxContainer = $Display/MarginContainer/VBoxContainer/ScrollContainer/ScrollArray
@@ -9,6 +9,11 @@ var label = preload("res://components/label.tscn")
 	
 const SCROLL_SENSITIVITY = .03;
 var mouse_button_down = false
+var gui_init = false
+var y_start = 0
+var y_end = 0
+var x_start = 0
+var x_end = 0
 
 func generate_label(index: int, text: String):
 	var l = label.instance()
@@ -41,21 +46,24 @@ func set_label(index: int, text: String):
 	var node = find_node_by_name(get_tree().get_root(), "LABEL_" + str(index))
 	node.text = text
 
-#func _gui_event(event):
-#	if (event is InputEventMouseButton and event.button_index == BUTTON_LEFT):
-#		mouse_button_down = event.pressed;
-#	if (event is InputEventMouseMotion and mouse_button_down):
-#		scroll_container.scroll_horizontal -= event.speed.x * SCROLL_SENSITIVITY
-#	if (event is InputEventScreenDrag):
-#		scroll_container.scroll_horizontal -= event.relative.x
+func is_in_scroll_location(position):
+	if (position.y > y_start and position.y < y_end and 
+		position.x > x_start and position.x < x_end):
+		return true
+	return false
 
 func _input (event):
-	if event is InputEventScreenTouch:
-		#move_player(get_touch_location(event.position), FingerAction.PRESS if event.is_pressed() else FingerAction.RELEASE, event.index)
-		print("touch:", event.position)
-	elif event is InputEventScreenDrag:
-		#move_player(get_touch_location(event.position), FingerAction.DRAG, event.index)
-		print("drag:", event.position)
+	if not gui_init:
+		gui_init = true
+		y_start = scroll_container.get_global_position().y
+		y_end = scroll_container.get_global_position().y + scroll_container.get_size().y
+		x_start = scroll_container.get_global_position().x + scroll_container.get_size().x
+		x_end = OS.get_screen_size().x
+	if event is InputEventScreenDrag:
+		if is_in_scroll_location(event.position):
+			print(event.speed.y)
+			scroll_container.scroll_vertical -= event.speed.y * SCROLL_SENSITIVITY
+			scroll_container.update()
 
 func init():
 	pass
