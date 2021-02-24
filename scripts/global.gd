@@ -10,6 +10,8 @@ var practice_index = -1
 const FILE_PATH = "user://perfectpitchtrainer.data"
 var file_data = {}
 
+var color_finished = Color("578754")
+
 func load_root():
 	var file = File.new()
 	file.open("res://masterclasses.json", file.READ)

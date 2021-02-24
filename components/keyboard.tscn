@@ -4,12 +4,8 @@
 [ext_resource path="res://components/key_white.tscn" type="PackedScene" id=2]
 [ext_resource path="res://assets/font_small.tres" type="Theme" id=3]
 [ext_resource path="res://scripts/keyboard.gd" type="Script" id=4]
-
-[sub_resource type="StyleBoxFlat" id=1]
-bg_color = Color( 0.0627451, 0.0470588, 0.0352941, 1 )
-
-[sub_resource type="StyleBoxFlat" id=2]
-bg_color = Color( 0.803922, 0.752941, 0.682353, 1 )
+[ext_resource path="res://assets/btn_black.tres" type="Theme" id=5]
+[ext_resource path="res://assets/btn_white.tres" type="Theme" id=6]
 
 [sub_resource type="StyleBoxEmpty" id=3]
 
@@ -40,13 +36,17 @@ margin_bottom = 140.0
 size_flags_horizontal = 3
 
 [node name="KEY_ES" parent="Column/Row1" instance=ExtResource( 1 )]
-custom_styles/normal = SubResource( 1 )
+margin_top = 0.0
+margin_bottom = 140.0
+theme = ExtResource( 5 )
 text = "es"
 
 [node name="KEY_E" parent="Column/Row1" instance=ExtResource( 2 )]
 margin_left = 144.0
+margin_top = 0.0
 margin_right = 284.0
-custom_styles/normal = SubResource( 2 )
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "e"
 
 [node name="TEXTBOX" type="Button" parent="Column/Row1"]
@@ -74,31 +74,41 @@ margin_bottom = 284.0
 size_flags_horizontal = 3
 
 [node name="KEY_B" parent="Column/Row2" instance=ExtResource( 1 )]
-custom_styles/normal = SubResource( 1 )
+margin_top = 0.0
+margin_bottom = 140.0
+theme = ExtResource( 5 )
 text = "b"
 
 [node name="KEY_H" parent="Column/Row2" instance=ExtResource( 2 )]
 margin_left = 144.0
+margin_top = 0.0
 margin_right = 284.0
-custom_styles/normal = SubResource( 2 )
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "h"
 
 [node name="KEY_C" parent="Column/Row2" instance=ExtResource( 2 )]
 margin_left = 288.0
+margin_top = 0.0
 margin_right = 428.0
-custom_styles/normal = SubResource( 2 )
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "c"
 
 [node name="KEY_CIS" parent="Column/Row2" instance=ExtResource( 1 )]
 margin_left = 432.0
+margin_top = 0.0
 margin_right = 572.0
-custom_styles/normal = SubResource( 1 )
+margin_bottom = 140.0
+theme = ExtResource( 5 )
 text = "cis"
 
 [node name="KEY_D" parent="Column/Row2" instance=ExtResource( 2 )]
 margin_left = 576.0
+margin_top = 0.0
 margin_right = 716.0
-custom_styles/normal = SubResource( 2 )
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "d"
 
 [node name="Row3" type="HBoxContainer" parent="Column"]
@@ -108,29 +118,39 @@ margin_bottom = 428.0
 size_flags_horizontal = 3
 
 [node name="KEY_F" parent="Column/Row3" instance=ExtResource( 2 )]
-custom_styles/normal = SubResource( 2 )
+margin_top = 0.0
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "f"
 
 [node name="KEY_FIS" parent="Column/Row3" instance=ExtResource( 1 )]
 margin_left = 144.0
+margin_top = 0.0
 margin_right = 284.0
-custom_styles/normal = SubResource( 1 )
+margin_bottom = 140.0
+theme = ExtResource( 5 )
 text = "fis"
 
 [node name="KEY_G" parent="Column/Row3" instance=ExtResource( 2 )]
 margin_left = 288.0
+margin_top = 0.0
 margin_right = 428.0
-custom_styles/normal = SubResource( 2 )
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "g"
 
 [node name="KEY_AS" parent="Column/Row3" instance=ExtResource( 1 )]
 margin_left = 432.0
+margin_top = 0.0
 margin_right = 572.0
-custom_styles/normal = SubResource( 1 )
+margin_bottom = 140.0
+theme = ExtResource( 5 )
 text = "as"
 
 [node name="KEY_A" parent="Column/Row3" instance=ExtResource( 2 )]
 margin_left = 576.0
+margin_top = 0.0
 margin_right = 716.0
-custom_styles/normal = SubResource( 2 )
+margin_bottom = 140.0
+theme = ExtResource( 6 )
 text = "a"

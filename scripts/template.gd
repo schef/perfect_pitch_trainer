@@ -7,7 +7,7 @@ var multiple_array = load("res://components/multiple_array.tscn")
 var button = preload("res://components/button.tscn")
 var label = preload("res://components/label.tscn")
 var rng = RandomNumberGenerator.new()
-	
+
 const SCROLL_SENSITIVITY = .03;
 var mouse_button_down = false
 var gui_init = false
