@@ -28,6 +28,9 @@ func generate_button(index: int, text: String, callback: String):
 	if (text == "<-"):
 		b.text = ""
 		btn = load("res://assets/btn_back.tres")
+		b.size_flags_horizontal = 0
+		b.size_flags_vertical = 0
+		b.rect_min_size = Vector2(150, 150)
 	else:
 		b.text = text
 		btn = load("res://assets/btn_v%d.tres" % [rng.randi_range(1, 3)])

@@ -1,10 +1,13 @@
-[gd_scene format=2]
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://assets/btn_v1.tres" type="Theme" id=1]
 
 [node name="Button" type="Button"]
 margin_right = 840.0
 margin_bottom = 150.0
 rect_min_size = Vector2( 0, 150 )
 size_flags_horizontal = 3
+theme = ExtResource( 1 )
 text = "Button"
 __meta__ = {
 "_edit_use_anchors_": false
