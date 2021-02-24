@@ -1,30 +1,6 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://assets/Monego Regular Nerd Font.otf" type="DynamicFontData" id=1]
-[ext_resource path="res://assets/Monego BoldItalic Nerd Font.otf" type="DynamicFontData" id=2]
-[ext_resource path="res://assets/Monego Bold Nerd Font.otf" type="DynamicFontData" id=3]
-[ext_resource path="res://assets/Monego Italic Nerd Font.otf" type="DynamicFontData" id=4]
-
-[sub_resource type="DynamicFont" id=5]
-size = 32
-outline_color = Color( 0.52549, 0.52549, 0.52549, 1 )
-font_data = ExtResource( 1 )
-
-[sub_resource type="DynamicFont" id=4]
-size = 32
-font_data = ExtResource( 2 )
-
-[sub_resource type="DynamicFont" id=3]
-size = 32
-font_data = ExtResource( 4 )
-
-[sub_resource type="DynamicFont" id=2]
-size = 32
-font_data = ExtResource( 3 )
-
-[sub_resource type="DynamicFont" id=1]
-size = 32
-font_data = ExtResource( 1 )
+[ext_resource path="res://assets/font_small.tres" type="Theme" id=1]
 
 [node name="RichTextLabel" type="RichTextLabel"]
 margin_top = -1.5874
@@ -32,11 +8,8 @@ margin_right = 840.0
 margin_bottom = 1351.41
 size_flags_horizontal = 3
 size_flags_vertical = 3
-custom_fonts/mono_font = SubResource( 5 )
-custom_fonts/bold_italics_font = SubResource( 4 )
-custom_fonts/italics_font = SubResource( 3 )
-custom_fonts/bold_font = SubResource( 2 )
-custom_fonts/normal_font = SubResource( 1 )
+theme = ExtResource( 1 )
+custom_colors/default_color = Color( 0.388235, 0.054902, 0.27451, 1 )
 bbcode_enabled = true
 bbcode_text = "Perfect pitch sounds so long good until you take your pace to practice it. It's always hard to learn something new. It takes time and energy.
 

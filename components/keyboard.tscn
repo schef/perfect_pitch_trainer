@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://components/key_black.tscn" type="PackedScene" id=1]
 [ext_resource path="res://components/key_white.tscn" type="PackedScene" id=2]
@@ -10,6 +10,16 @@ bg_color = Color( 0.0627451, 0.0470588, 0.0352941, 1 )
 
 [sub_resource type="StyleBoxFlat" id=2]
 bg_color = Color( 0.803922, 0.752941, 0.682353, 1 )
+
+[sub_resource type="StyleBoxEmpty" id=3]
+
+[sub_resource type="StyleBoxEmpty" id=4]
+
+[sub_resource type="StyleBoxEmpty" id=5]
+
+[sub_resource type="StyleBoxEmpty" id=6]
+
+[sub_resource type="StyleBoxEmpty" id=7]
 
 [node name="Keyboard" type="MarginContainer"]
 script = ExtResource( 4 )
@@ -46,6 +56,15 @@ margin_bottom = 140.0
 rect_min_size = Vector2( 428, 0 )
 size_flags_horizontal = 3
 theme = ExtResource( 3 )
+custom_styles/hover = SubResource( 3 )
+custom_styles/pressed = SubResource( 4 )
+custom_styles/focus = SubResource( 5 )
+custom_styles/disabled = SubResource( 6 )
+custom_styles/normal = SubResource( 7 )
+custom_colors/font_color_disabled = Color( 0.388235, 0.054902, 0.27451, 1 )
+custom_colors/font_color = Color( 0.388235, 0.054902, 0.27451, 1 )
+custom_colors/font_color_hover = Color( 0.388235, 0.054902, 0.27451, 1 )
+custom_colors/font_color_pressed = Color( 0.388235, 0.054902, 0.27451, 1 )
 text = "Press to clear"
 
 [node name="Row2" type="HBoxContainer" parent="Column"]

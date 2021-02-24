@@ -3,7 +3,7 @@
 [ext_resource path="res://assets/superfruit.ttf" type="DynamicFontData" id=1]
 
 [sub_resource type="DynamicFont" id=1]
-size = 32
+size = 50
 font_data = ExtResource( 1 )
 
 [resource]
