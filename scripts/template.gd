@@ -6,6 +6,7 @@ onready var scroll_array : VBoxContainer = $Display/MarginContainer/VBoxContaine
 var multiple_array = load("res://components/multiple_array.tscn")
 var button = preload("res://components/button.tscn")
 var label = preload("res://components/label.tscn")
+var rng = RandomNumberGenerator.new()
 	
 const SCROLL_SENSITIVITY = .03;
 var mouse_button_down = false
@@ -23,7 +24,14 @@ func generate_label(index: int, text: String):
 	
 func generate_button(index: int, text: String, callback: String):
 	var b = button.instance()
-	b.text = text
+	var btn
+	if (text == "<-"):
+		b.text = ""
+		btn = load("res://assets/btn_back.tres")
+	else:
+		b.text = text
+		btn = load("res://assets/btn_v%d.tres" % [rng.randi_range(1, 3)])
+	b.set_theme(btn)
 	b.connect("pressed", self, callback, [index])
 	return b
 	
