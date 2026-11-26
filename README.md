@@ -83,6 +83,25 @@ devices with Android 7.0 or newer. Device playback and release signing have not
 been validated. The unfinished Experiments screen does not automatically
 activate the microphone.
 
+## Desktop builds
+
+Install the Godot 4.7.2 Linux and Windows export templates. Both presets produce
+standalone x86_64 executables with the game data and SoundFonts embedded:
+
+```sh
+mkdir -p builds/linux-x86_64 builds/windows-x86_64
+godot --headless --path . --export-release "Linux x86_64"
+godot --headless --path . --export-release "Windows x86_64"
+```
+
+- Linux: `builds/linux-x86_64/perfect_pitch_trainer_1.8.0.x86_64`
+- Windows: `builds/windows-x86_64/perfect_pitch_trainer_1.8.0.exe`
+
+Linux startup is tested locally; Windows startup is tested under Wine, not on
+a native Windows machine. The Windows executable is unsigned. Check the
+SoundFonts' redistribution licenses before sharing either build publicly.
+The `builds/` directory is ignored by Git and excluded from all exports.
+
 ## Repository layout
 
 - `addons/midi/`: vendored GDScript SoundFont player and its license.
