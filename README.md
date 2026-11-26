@@ -54,9 +54,18 @@ addon's license. See `assets/soundfonts/README.md` and `addons/midi/UPSTREAM.md`
 
 Install export templates matching your Godot version and configure the Android
 SDK/JDK in Editor Settings before exporting. Review the existing Android preset
-and configure signing locally. Android packaging and device playback have not
-been validated as part of this migration. The unfinished Experiments screen
-does not automatically activate the microphone.
+and configure signing locally. To build an installable debug APK:
+
+```sh
+godot --headless --editor --path . --quit
+godot --headless --path . --export-debug Android apk/perfect_pitch_trainer_1.7.0-debug.apk
+```
+
+The debug APK has been built with Godot 4.7.2 and checked for valid signing,
+ZIP alignment, and inclusion of all three SoundFonts. It targets ARM32/ARM64
+devices with Android 7.0 or newer. Device playback and release signing have not
+been validated. The unfinished Experiments screen does not automatically
+activate the microphone.
 
 ## Repository layout
 
