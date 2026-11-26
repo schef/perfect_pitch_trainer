@@ -58,7 +58,7 @@ and configure signing locally. To build an installable debug APK:
 
 ```sh
 godot --headless --editor --path . --quit
-godot --headless --path . --export-debug Android apk/perfect_pitch_trainer_1.7.0-debug.apk
+godot --headless --path . --export-debug Android apk/perfect_pitch_trainer_1.8.0-debug.apk
 ```
 
 The debug APK has been built with Godot 4.7.2 and checked for valid signing,
