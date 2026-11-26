@@ -2,5 +2,5 @@ extends Node2D
 
 
 func _process(delta):
-	if (OS.get_ticks_msec() >= 3000):
-		get_tree().change_scene("res://scenes/root.tscn")
+	if (Time.get_ticks_msec() >= 3000):
+		get_tree().change_scene_to_file("res://scenes/root.tscn")

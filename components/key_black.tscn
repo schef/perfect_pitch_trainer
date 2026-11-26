@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=2]
 
-[ext_resource path="res://assets/btn_small@3x.png" type="Texture" id=1]
+[ext_resource path="res://assets/btn_small@3x.png" type="Texture2D" id=1]
 
 [sub_resource type="StyleBoxTexture" id=1]
 texture = ExtResource( 1 )
@@ -17,19 +17,19 @@ modulate_color = Color( 0.14902, 0.14902, 0.14902, 1 )
 [sub_resource type="StyleBoxEmpty" id=4]
 
 [node name="Button2" type="Button"]
-margin_top = -0.529724
-margin_right = 140.0
-margin_bottom = 139.47
-rect_min_size = Vector2( 140, 140 )
+offset_top = -0.529724
+offset_right = 140.0
+offset_bottom = 139.47
+custom_minimum_size = Vector2( 140, 140 )
 size_flags_horizontal = 3
-custom_styles/hover = SubResource( 1 )
-custom_styles/pressed = SubResource( 2 )
-custom_styles/focus = SubResource( 3 )
-custom_styles/disabled = SubResource( 4 )
-custom_styles/normal = SubResource( 1 )
-custom_colors/font_color = Color( 1, 0.94902, 0.882353, 1 )
-custom_colors/font_color_hover = Color( 1, 0.94902, 0.882353, 1 )
-custom_colors/font_color_pressed = Color( 1, 0.94902, 0.882353, 1 )
+theme_override_styles/hover = SubResource( 1 )
+theme_override_styles/pressed = SubResource( 2 )
+theme_override_styles/focus = SubResource( 3 )
+theme_override_styles/disabled = SubResource( 4 )
+theme_override_styles/normal = SubResource( 1 )
+theme_override_colors/font_color = Color( 1, 0.94902, 0.882353, 1 )
+theme_override_colors/font_hover_color = Color( 1, 0.94902, 0.882353, 1 )
+theme_override_colors/font_pressed_color = Color( 1, 0.94902, 0.882353, 1 )
 text = "C#"
 __meta__ = {
 "_edit_use_anchors_": false

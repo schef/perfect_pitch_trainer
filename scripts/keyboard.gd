@@ -2,8 +2,8 @@ extends Node
 
 var pitchList = []
 var textbox
-var init = false
-var button_callback: FuncRef = null
+var initialized = false
+var button_callback: Callable
 
 func find_node_by_name(root, name):
 	if(root.get_name() == name): return root
@@ -19,7 +19,7 @@ func get_key_node(name: String):
 
 func register_key(label: String, pitch: String):
 	var key_c = get_key_node(label)
-	key_c.connect("pressed", self, "on_key_pressed", [pitch])
+	key_c.connect("pressed", Callable(self, "on_key_pressed").bind(pitch))
 
 func _ready():
 	register_key("KEY_C", "c")
@@ -35,13 +35,13 @@ func _ready():
 	register_key("KEY_B", "b")
 	register_key("KEY_H", "h")
 	textbox = get_key_node("TEXTBOX")
-	textbox.connect("pressed", self, "on_textbox_pressed")
+	textbox.connect("pressed", Callable(self, "on_textbox_pressed"))
 
 func update_text():
-	var text = PoolStringArray(pitchList).join(", ")
+	var text = ", ".join(PackedStringArray(pitchList))
 	textbox.text = text
-	if (button_callback != null):
-		button_callback.call_func(pitchList)
+	if button_callback.is_valid():
+		button_callback.call(pitchList)
 
 func on_key_pressed(pitch: String):
 	pitchList.append(pitch)
@@ -52,8 +52,8 @@ func on_textbox_pressed():
 	update_text()
 
 func init():
-	if (!init):
-		init = true
+	if (!initialized):
+		initialized = true
 		var min_size = textbox.get_custom_minimum_size()
 		min_size.x = get_key_node("KEY_D").get_position()[0] + get_key_node("KEY_C").get_size()[0] - get_key_node("KEY_C").get_position()[0]
 		textbox.set_custom_minimum_size(min_size)
@@ -62,7 +62,7 @@ func _process(delta):
 	init()
 
 func register_on_key_press_callback(fun_obj, fun_name):
-	button_callback = funcref(fun_obj, fun_name)
+	button_callback = Callable(fun_obj, fun_name)
 
 func clear_text(status):
 	textbox.text = "Good" if status else "Wrong"

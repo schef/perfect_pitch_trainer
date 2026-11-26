@@ -5,7 +5,7 @@ var score = 0
 var keyboard
 
 enum ElementIndex {
-	BACK = -1
+	BACK = -1,
 	NEXT = 0,
 	PLAY_C,
 	REPEAT,
@@ -56,6 +56,7 @@ func on_key_press(pitch_list):
 		refresh_score()
 	
 func _ready():
+	super._ready()
 	keyboard = find_node_by_name(get_tree().get_root(), "Keyboard")
 	keyboard.register_on_key_press_callback(self, "on_key_press")
 	next_batch()
@@ -66,7 +67,7 @@ func init_header():
 
 func init_scroll_array():
 	scroll_array.add_child(generate_button(ElementIndex.BACK, "<-", "on_button_pressed"))
-	var keyboard = load("res://components/keyboard.tscn").instance()
+	var keyboard = load("res://components/keyboard.tscn").instantiate()
 	scroll_array.add_child(keyboard)
 	scroll_array.add_child(generate_hbox([
 		generate_button(ElementIndex.PLAY_C, "Play C", "on_button_pressed"),
@@ -82,7 +83,7 @@ func init_scroll_array():
 		]))
 	var debug_label = generate_label(ElementIndex.DEBUG_LABEL, "")
 	debug_label.theme = load("res://assets/font_small.tres")
-	debug_label.autowrap = true
+	debug_label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	scroll_array.add_child(debug_label)
 
 func on_button_pressed(index: int):
@@ -90,7 +91,7 @@ func on_button_pressed(index: int):
 		ElementIndex.BACK:
 			Global.set_score(score)
 			Global.reset_practice_index()
-			get_tree().change_scene("res://scenes/masterclass.tscn")
+			get_tree().change_scene_to_file("res://scenes/masterclass.tscn")
 		ElementIndex.REPEAT:
 			play_question()
 		ElementIndex.PLAY_C:

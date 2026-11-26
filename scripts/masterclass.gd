@@ -21,8 +21,8 @@ func on_button_pressed(index: int):
 	match index:
 		ElementIndex.BACK:
 			Global.reset_masterclass_index()
-			get_tree().change_scene("res://scenes/root.tscn")
+			get_tree().change_scene_to_file("res://scenes/root.tscn")
 		_:
 			Global.set_practice_index(index)
 			var scene_path = "res://scenes/practice_%s.tscn" % [Global.get_field("practiceType").to_lower()]
-			get_tree().change_scene(scene_path)
+			get_tree().change_scene_to_file(scene_path)

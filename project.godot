@@ -1,3 +1,4 @@
+; Project was converted by built-in tool to Godot 4
 ; Engine configuration file.
 ; It's best edited using the editor UI and not directly,
 ; since the parameters that go here are not all obvious.
@@ -6,65 +7,35 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=4
-
-_global_script_classes=[ {
-"base": "Sampler",
-"class": "Multisampler",
-"language": "GDScript",
-"path": "res://addons/SimpleSampler/multisampler.gd"
-}, {
-"base": "Resource",
-"class": "NoteSample",
-"language": "GDScript",
-"path": "res://addons/SimpleSampler/sample_resource.gd"
-}, {
-"base": "Node",
-"class": "NoteValueCalculator",
-"language": "GDScript",
-"path": "res://addons/SimpleSampler/note_value.gd"
-}, {
-"base": "AudioStreamPlayer",
-"class": "Sampler",
-"language": "GDScript",
-"path": "res://addons/SimpleSampler/sampler.gd"
-} ]
-_global_script_class_icons={
-"Multisampler": "",
-"NoteSample": "",
-"NoteValueCalculator": "",
-"Sampler": ""
-}
+config_version=5
 
 [application]
 
 config/name="Perfect Pitch Trainer"
 run/main_scene="res://scenes/splash.tscn"
 boot_splash/fullsize=false
-config/icon="res://icon.png"
+config/icon="res://assets/icon.png"
+config/features=PackedStringArray("4.7", "GL Compatibility")
 
 [audio]
 
-default_bus_layout=""
+buses/default_bus_layout=""
 
 [autoload]
 
 Global="*res://scripts/global.gd"
-NoteValue="*res://addons/SimpleSampler/note_value.gd"
 MidiPlayer="*res://scripts/midi_player.gd"
 PitchParser="*res://scripts/pitch_parser.gd"
 
 [display]
 
-window/size/width=1080
-window/size/height=1920
-window/handheld/orientation="portrait"
+window/size/viewport_width=1080
+window/size/viewport_height=1920
+window/size/window_width_override=540
+window/size/window_height_override=960
+window/handheld/orientation=1
 window/stretch/mode="viewport"
 window/stretch/aspect="keep"
-
-[editor_plugins]
-
-enabled=PoolStringArray( "SimpleSampler" )
 
 [input_devices]
 
@@ -72,4 +43,5 @@ pointing/emulate_touch_from_mouse=true
 
 [rendering]
 
-environment/default_environment="res://default_env.tres"
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

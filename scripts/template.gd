@@ -1,8 +1,8 @@
 extends Node
-onready var scroll_container : ScrollContainer = $Display/MarginContainer/VBoxContainer/ScrollContainer
-onready var title : Label = $Display/MarginContainer/VBoxContainer/Header/Title
-onready var subtitle : Label = $Display/MarginContainer/VBoxContainer/Header/Subtitle
-onready var scroll_array : VBoxContainer = $Display/MarginContainer/VBoxContainer/ScrollContainer/ScrollArray
+@onready var scroll_container : ScrollContainer = $Display/MarginContainer/VBoxContainer/ScrollContainer
+@onready var title : Label = $Display/MarginContainer/VBoxContainer/Header/Title
+@onready var subtitle : Label = $Display/MarginContainer/VBoxContainer/Header/Subtitle
+@onready var scroll_array : VBoxContainer = $Display/MarginContainer/VBoxContainer/ScrollContainer/ScrollArray
 var multiple_array = load("res://components/multiple_array.tscn")
 var button = preload("res://components/button.tscn")
 var label = preload("res://components/label.tscn")
@@ -17,29 +17,29 @@ var x_start = 0
 var x_end = 0
 
 func generate_label(index: int, text: String):
-	var l = label.instance()
+	var l = label.instantiate()
 	l.name = "LABEL_" + str(index)
 	l.text = text
 	return l
 	
 func generate_button(index: int, text: String, callback: String):
-	var b = button.instance()
+	var b = button.instantiate()
 	var btn
 	if (text == "<-"):
 		b.text = ""
 		btn = load("res://assets/btn_back.tres")
 		b.size_flags_horizontal = 0
 		b.size_flags_vertical = 0
-		b.rect_min_size = Vector2(150, 150)
+		b.custom_minimum_size = Vector2(150, 150)
 	else:
 		b.text = text
 		btn = load("res://assets/btn_v%d.tres" % [rng.randi_range(1, 3)])
 	b.set_theme(btn)
-	b.connect("pressed", self, callback, [index])
+	b.connect("pressed", Callable(self, callback).bind(index))
 	return b
 	
 func generate_hbox(elements: Array):
-	var ma = multiple_array.instance()
+	var ma = multiple_array.instantiate()
 	for element in elements:
 		ma.add_child(element)
 	return ma
@@ -69,12 +69,11 @@ func _input (event):
 		y_start = scroll_container.get_global_position().y
 		y_end = scroll_container.get_global_position().y + scroll_container.get_size().y
 		x_start = scroll_container.get_global_position().x + scroll_container.get_size().x
-		x_end = OS.get_screen_size().x
+		x_end = DisplayServer.screen_get_size().x
 	if event is InputEventScreenDrag:
 		if is_in_scroll_location(event.position):
-			print(event.speed.y)
-			scroll_container.scroll_vertical -= event.speed.y * SCROLL_SENSITIVITY
-			scroll_container.update()
+			scroll_container.scroll_vertical -= event.velocity.y * SCROLL_SENSITIVITY
+			scroll_container.queue_redraw()
 
 func init():
 	pass
@@ -89,3 +88,6 @@ func _ready():
 	init()
 	init_header()
 	init_scroll_array()
+
+func _exit_tree():
+	MidiPlayer.allNotesOff()

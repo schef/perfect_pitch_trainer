@@ -3,15 +3,15 @@
 [ext_resource path="res://assets/font_small.tres" type="Theme" id=1]
 
 [node name="RichTextLabel" type="RichTextLabel"]
-margin_top = -1.5874
-margin_right = 840.0
-margin_bottom = 1351.41
+offset_top = -1.5874
+offset_right = 840.0
+offset_bottom = 1351.41
 size_flags_horizontal = 3
 size_flags_vertical = 3
 theme = ExtResource( 1 )
-custom_colors/default_color = Color( 0.388235, 0.054902, 0.27451, 1 )
+theme_override_colors/default_color = Color( 0.388235, 0.054902, 0.27451, 1 )
 bbcode_enabled = true
-bbcode_text = "Perfect pitch sounds so long good until you take your pace to practice it. It's always hard to learn something new. It takes time and energy.
+text = "Perfect pitch sounds so long good until you take your pace to practice it. It's always hard to learn something new. It takes time and energy.
 
 [b]Keywords[/b]
 Performer can only preform as well as he can hear. A composer can only compose what he can think up. And you can only think up what your ear can comprehend, what your ear can grasp. You can only appreciate and enjoy whatever your own perception and awareness allows you to enjoy. It is all dependent on your own musical awareness. Perfect pitch is the color in music (black and white TV example). Its a delicate perception which opens up the ear in all area of music. Its something which is already in our ear."

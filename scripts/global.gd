@@ -1,7 +1,6 @@
 extends Node
 
 const VERSION = "1.7.0"
-const EXPORT_PATH = "apk/perfect_pitch_trainer_"
 
 var root
 var rng
@@ -13,11 +12,7 @@ var file_data = {}
 var color_finished = Color("578754")
 
 func load_root():
-	var file = File.new()
-	file.open("res://masterclasses.json", file.READ)
-	var json = file.get_as_text()
-	root = JSON.parse(json).result
-	file.close()
+	root = JSON.parse_string(FileAccess.get_file_as_string("res://masterclasses.json"))
 	
 func load_rng():
 	rng = RandomNumberGenerator.new()
@@ -27,7 +22,6 @@ func _ready():
 	load_root()
 	load_rng()
 	load_file()
-	set_version()
 	
 func get_root():
 	return root
@@ -97,17 +91,20 @@ func get_flat_pitch_list(pitch_list):
 	return flat_list
 
 func save_file():
-	var f = File.new()
-	f.open(FILE_PATH, File.WRITE)
+	var f = FileAccess.open(FILE_PATH, FileAccess.WRITE)
+	if f == null:
+		push_error("Could not save progress: %s" % FileAccess.get_open_error())
+		return
 	f.store_var(file_data)
 	f.close()
 
 func load_file():
-	var f = File.new()
-	if f.file_exists(FILE_PATH):
-		f.open(FILE_PATH, File.READ)
-		file_data = f.get_var()
-		f.close()
+	if FileAccess.file_exists(FILE_PATH):
+		var f = FileAccess.open(FILE_PATH, FileAccess.READ)
+		if f != null:
+			var saved_data = f.get_var()
+			if saved_data is Dictionary:
+				file_data = saved_data
 
 func set_score(score: int):
 	var masterclass_id = get_masterclass()["id"]
@@ -125,13 +122,13 @@ func get_score(masterclass_id, practice_id):
 	else:
 		return file_data[masterclass_id][practice_id]
 
-func get_masterclass_by_id(masterclass_id):
+func get_masterclass_by_id(masterclass_id) -> Variant:
 	for masterclass in get_root()["masterclasses"]:
 		if masterclass["id"] == masterclass_id:
 			return masterclass
 	return null
 	
-func get_practice_by_id(masterclass_id, practice_id):
+func get_practice_by_id(masterclass_id, practice_id) -> Variant:
 	for practice in get_masterclass_by_id(masterclass_id)["practices"]:
 		if practice["id"] == practice_id:
 			return practice
@@ -149,11 +146,3 @@ func is_masterclass_finished(masterclass_id):
 		if (!is_practice_finished(masterclass_id, practice["id"])):
 			return false
 	return true
-
-func set_version():
-	var preset = ConfigFile.new()
-	preset.load("res://export_presets.cfg")
-	preset.set_value("preset.0.options", "version/name", VERSION)
-	preset.set_value("preset.0", "export_path", EXPORT_PATH + VERSION)
-	preset.save("res://export_presets.cfg")
-	property_list_changed_notify()

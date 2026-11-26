@@ -1,7 +1,7 @@
 extends "res://scripts/template.gd"
 
 enum ElementIndex {
-	BACK = -1
+	BACK = -1,
 	LINK = 0,
 	}
 
@@ -18,6 +18,6 @@ func on_button_pressed(index: int):
 		ElementIndex.BACK:
 			Global.set_score(1)
 			Global.reset_practice_index()
-			get_tree().change_scene("res://scenes/masterclass.tscn")
+			get_tree().change_scene_to_file("res://scenes/masterclass.tscn")
 		ElementIndex.LINK:
-			 OS.shell_open(Global.get_field("link"))
+			OS.shell_open(Global.get_field("link"))

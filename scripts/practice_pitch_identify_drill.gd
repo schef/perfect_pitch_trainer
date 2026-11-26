@@ -4,7 +4,7 @@ var batch
 var score = 0
 
 enum ElementIndex {
-	BACK = -1
+	BACK = -1,
 	CHECK = 0,
 	NEXT,
 	PLAY_C,
@@ -38,6 +38,7 @@ func next_batch():
 	play_question()
 	
 func _ready():
+	super._ready()
 	next_batch()
 
 func init_header():
@@ -64,7 +65,7 @@ func init_scroll_array():
 		]))
 	var debug_label = generate_label(ElementIndex.DEBUG_LABEL, "")
 	debug_label.theme = load("res://assets/font_small.tres")
-	debug_label.autowrap = true
+	debug_label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	scroll_array.add_child(debug_label)
 
 func on_button_pressed(index: int):
@@ -72,7 +73,7 @@ func on_button_pressed(index: int):
 		ElementIndex.BACK:
 			Global.set_score(score)
 			Global.reset_practice_index()
-			get_tree().change_scene("res://scenes/masterclass.tscn")
+			get_tree().change_scene_to_file("res://scenes/masterclass.tscn")
 		ElementIndex.CHECK:
 			play_anwser()
 		ElementIndex.NEXT:

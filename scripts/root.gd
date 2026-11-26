@@ -16,4 +16,4 @@ func init_scroll_array():
 
 func on_button_pressed(index: int):
 	Global.set_masterclass_index(index)
-	get_tree().change_scene("res://scenes/masterclass.tscn")
+	get_tree().change_scene_to_file("res://scenes/masterclass.tscn")
