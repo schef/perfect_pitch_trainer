@@ -26,6 +26,7 @@ buses/default_bus_layout=""
 Global="*res://scripts/global.gd"
 MidiPlayer="*res://scripts/midi_player.gd"
 PitchParser="*res://scripts/pitch_parser.gd"
+TouchControls="*res://scripts/touch_controls.gd"
 
 [display]
 

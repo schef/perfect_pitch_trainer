@@ -7,6 +7,7 @@ var multiple_array = load("res://components/multiple_array.tscn")
 var button = preload("res://components/button.tscn")
 var label = preload("res://components/label.tscn")
 var rng = RandomNumberGenerator.new()
+var back_navigation_pending := false
 
 const SCROLL_SENSITIVITY = .03;
 var mouse_button_down = false
@@ -91,3 +92,14 @@ func _ready():
 
 func _exit_tree():
 	MidiPlayer.allNotesOff()
+
+func navigate_back():
+	if back_navigation_pending:
+		return
+	back_navigation_pending = true
+	# Every child screen uses -1 for its existing back button. Reuse that handler
+	# so score saving and lesson selection resets behave identically.
+	on_button_pressed(-1)
+
+func on_button_pressed(_index: int):
+	pass

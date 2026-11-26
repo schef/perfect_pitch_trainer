@@ -15,6 +15,9 @@ without letterboxing, and the background covers the available area. Progress is 
 `user://perfectpitchtrainer.data`; running the app no longer modifies export settings.
 Scrollable button lists fade into the background at overflowing edges; the fades
 disappear at the beginning/end of the list and do not intercept touch input.
+Android's system Back button follows the on-screen back navigation (including
+saving practice scores) and exits from the main menu. Touchscreen buttons avoid
+sticky mouse-hover/focus highlights; the chosen instrument remains selected.
 
 ## Headless checks
 
@@ -23,6 +26,7 @@ godot --headless --editor --path . --quit
 godot --headless --path . --script res://tests/smoke.gd
 godot --headless --path . --script res://tests/soundfonts.gd
 godot --headless --path . --script res://tests/layout.gd
+godot --headless --path . --script res://tests/navigation.gd
 ```
 
 The smoke test opens all 30 practices, checks keyboard answers, and exercises
@@ -74,7 +78,7 @@ and configure signing locally. To build an installable debug APK:
 
 ```sh
 godot --headless --editor --path . --quit
-godot --headless --path . --export-debug Android apk/perfect_pitch_trainer_1.8.0-debug.apk
+godot --headless --path . --export-debug Android apk/perfect_pitch_trainer_1.8.1-debug.apk
 ```
 
 The debug APK has been built with Godot 4.7.2 and checked for valid signing,
@@ -94,8 +98,8 @@ godot --headless --path . --export-release "Linux x86_64"
 godot --headless --path . --export-release "Windows x86_64"
 ```
 
-- Linux: `builds/linux-x86_64/perfect_pitch_trainer_1.8.0.x86_64`
-- Windows: `builds/windows-x86_64/perfect_pitch_trainer_1.8.0.exe`
+- Linux: `builds/linux-x86_64/perfect_pitch_trainer_1.8.1.x86_64`
+- Windows: `builds/windows-x86_64/perfect_pitch_trainer_1.8.1.exe`
 
 Linux startup is tested locally; Windows startup is tested under Wine, not on
 a native Windows machine. The Windows executable is unsigned. Check the

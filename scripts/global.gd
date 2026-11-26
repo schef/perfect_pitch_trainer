@@ -1,6 +1,6 @@
 extends Node
 
-const VERSION = "1.8.0"
+const VERSION = "1.8.1"
 
 var root
 var rng
@@ -19,9 +19,23 @@ func load_rng():
 	rng.randomize()
 		
 func _ready():
+	# Handle Android Back ourselves instead of letting SceneTree exit immediately.
+	get_tree().quit_on_go_back = false
 	load_root()
 	load_rng()
 	load_file()
+
+func _notification(what):
+	if what == NOTIFICATION_WM_GO_BACK_REQUEST:
+		navigate_back()
+
+func navigate_back():
+	var scene = get_tree().current_scene
+	if scene != null and scene.has_method("navigate_back"):
+		scene.navigate_back()
+	else:
+		# The splash screen has no parent menu.
+		get_tree().quit()
 	
 func get_root():
 	return root

@@ -1,5 +1,9 @@
 extends "res://scripts/template.gd"
 
+func navigate_back():
+	MidiPlayer.allNotesOff()
+	get_tree().quit()
+
 func init_header():
 	title.text = Global.get_title()
 	subtitle.text = "%s\n%s" % [Global.get_description(), Global.VERSION]
