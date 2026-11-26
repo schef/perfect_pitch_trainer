@@ -34,8 +34,8 @@ window/size/viewport_height=1920
 window/size/window_width_override=540
 window/size/window_height_override=960
 window/handheld/orientation=1
-window/stretch/mode="viewport"
-window/stretch/aspect="keep"
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
 
 [input_devices]
 

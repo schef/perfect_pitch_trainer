@@ -9,9 +9,12 @@ Open `project.godot` in Godot, let the assets import, then press **F6** for the
 current scene or **F5** to run the app from its splash screen. Practice scenes
 require a selected lesson, so use F5 to navigate to them through the menus.
 
-The project uses the Compatibility renderer and a portrait 1080×1920 viewport,
-displayed in a 540×960 desktop window. Progress is stored in
+The project uses the Compatibility renderer and a 1080×1920 reference layout,
+displayed in a 540×960 desktop window. The UI expands to fit taller phone screens
+without letterboxing, and the background covers the available area. Progress is stored in
 `user://perfectpitchtrainer.data`; running the app no longer modifies export settings.
+Scrollable button lists fade into the background at overflowing edges; the fades
+disappear at the beginning/end of the list and do not intercept touch input.
 
 ## Headless checks
 
@@ -19,6 +22,7 @@ displayed in a 540×960 desktop window. Progress is stored in
 godot --headless --editor --path . --quit
 godot --headless --path . --script res://tests/smoke.gd
 godot --headless --path . --script res://tests/soundfonts.gd
+godot --headless --path . --script res://tests/layout.gd
 ```
 
 The smoke test opens all 30 practices, checks keyboard answers, and exercises
@@ -27,6 +31,18 @@ all 49 pitches used by lessons, captures non-silent audio, and tests chords,
 note releases, and instrument switching. Neither test modifies saved progress
 or instrument preferences. Check the output for script errors as well as the
 final success message.
+
+The layout test checks three portrait sizes, including the 1080×2412 phone
+aspect ratio. Also check an exported resource pack: export conversion can
+change inherited Control layouts even when the source scene works:
+
+```sh
+godot --headless --path . --export-pack Android /tmp/pitch-layout.pck
+godot --headless --path . --main-pack /tmp/pitch-layout.pck --script "$PWD/tests/layout.gd"
+```
+
+If inherited layouts remain stale after a scene change, clear the generated
+`.godot/exported/` cache and export again.
 
 ## Instruments (SF2)
 
