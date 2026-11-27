@@ -12,6 +12,7 @@ config_version=5
 [application]
 
 config/name="Perfect Pitch Trainer"
+config/version="2.0.0"
 run/main_scene="res://scenes/splash.tscn"
 boot_splash/fullsize=false
 config/icon="res://assets/icon.png"

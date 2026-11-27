@@ -31,7 +31,14 @@ func run():
 				var answer = global.get_flat_pitch_list(scene.batch.anwser)
 				for pitch in answer:
 					scene.keyboard.on_key_pressed(pitch)
-				assert(scene.score == 1)
+				if global.get_field("practiceType") == "MIXED_PATTERN":
+					assert(scene.pattern_position == 1)
+				elif global.get_field("practiceType") == "REFERENCE_PATTERN":
+					assert(scene.step_index == 1)
+				elif scene.session_is_open():
+					assert(scene.score == 0)
+				else:
+					assert(scene.score == 1)
 			scene.queue_free()
 			await process_frame
 			midi.allNotesOff()

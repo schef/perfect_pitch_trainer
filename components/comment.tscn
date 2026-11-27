@@ -11,6 +11,8 @@ size_flags_vertical = 3
 theme = ExtResource( 1 )
 theme_override_colors/default_color = Color( 0.388235, 0.054902, 0.27451, 1 )
 bbcode_enabled = true
+fit_content = true
+scroll_active = false
 text = "Perfect pitch sounds so long good until you take your pace to practice it. It's always hard to learn something new. It takes time and energy.
 
 [b]Keywords[/b]

@@ -5,7 +5,7 @@ const FADE_SHADER = preload("res://assets/scroll_fade.gdshader")
 
 var top_fade: ColorRect
 var bottom_fade: ColorRect
-@onready var background: TextureRect = get_node("../../..")
+@onready var background: TextureRect = get_parent()
 
 func _ready():
 	# Add overlays outside the scroll container so they aren't scrolled or laid out

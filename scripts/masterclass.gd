@@ -11,6 +11,12 @@ func init_scroll_array():
 	var ElementIndex = 0
 	for practice in Global.get_practices():
 		var text = Global.get_field_from_object(practice, "title")
+		if practice.get("optional", false):
+			text += " [optional]"
+		elif practice.get("implementation_status", "") == "deferred":
+			text += " [pending]"
+		elif practice.get("implementation_status", "") == "manual_guidance":
+			text += " [manual]"
 		var btn = generate_button(ElementIndex, text, "on_button_pressed")
 		if (Global.is_practice_finished(Global.get_field("id"), practice["id"])):
 			btn.modulate = Global.color_finished

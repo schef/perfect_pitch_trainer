@@ -55,7 +55,7 @@ func getOctaveFromMidi(midi):
 	var octave = int((midi - rest) / 12)
 	var centerOctave = (octave - center)
 	if centerOctave > 0:
-		return "'" * centerOctave
+		return "'".repeat(centerOctave)
 	elif centerOctave < 0:
 		#TODO: check if here is , as number
 		var returnString = ""

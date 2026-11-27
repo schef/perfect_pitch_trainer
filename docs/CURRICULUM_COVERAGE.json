@@ -1,0 +1,279 @@
+{
+  "notice": "Coverage and exact source citations only; not audio verification or automatic assessment of manual work.",
+  "classes": [
+    {
+      "masterclass": 1,
+      "source_assignments": 0,
+      "represented": 0,
+      "missing": [],
+      "activity_counts": {},
+      "entries": 2
+    },
+    {
+      "masterclass": 2,
+      "source_assignments": 1,
+      "represented": 1,
+      "missing": [],
+      "activity_counts": {
+        "manual": 1
+      },
+      "entries": 3
+    },
+    {
+      "masterclass": 3,
+      "source_assignments": 4,
+      "represented": 4,
+      "missing": [],
+      "activity_counts": {
+        "manual": 4
+      },
+      "entries": 6
+    },
+    {
+      "masterclass": 4,
+      "source_assignments": 1,
+      "represented": 1,
+      "missing": [],
+      "activity_counts": {
+        "manual": 1
+      },
+      "entries": 3
+    },
+    {
+      "masterclass": 5,
+      "source_assignments": 4,
+      "represented": 4,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 1,
+        "manual": 3
+      },
+      "entries": 6
+    },
+    {
+      "masterclass": 6,
+      "source_assignments": 14,
+      "represented": 14,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 5,
+        "manual": 9
+      },
+      "entries": 16
+    },
+    {
+      "masterclass": 7,
+      "source_assignments": 9,
+      "represented": 9,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 4,
+        "manual": 5
+      },
+      "entries": 11
+    },
+    {
+      "masterclass": 8,
+      "source_assignments": 15,
+      "represented": 15,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 13,
+        "manual": 2
+      },
+      "entries": 17
+    },
+    {
+      "masterclass": 9,
+      "source_assignments": 12,
+      "represented": 12,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 12
+      },
+      "entries": 14
+    },
+    {
+      "masterclass": 10,
+      "source_assignments": 25,
+      "represented": 25,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 25
+      },
+      "entries": 27
+    },
+    {
+      "masterclass": 11,
+      "source_assignments": 26,
+      "represented": 26,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 22,
+        "manual": 4
+      },
+      "entries": 28
+    },
+    {
+      "masterclass": 12,
+      "source_assignments": 28,
+      "represented": 28,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 18,
+        "manual": 5,
+        "deferred": 5
+      },
+      "entries": 30
+    },
+    {
+      "masterclass": 13,
+      "source_assignments": 10,
+      "represented": 10,
+      "missing": [],
+      "activity_counts": {
+        "manual": 4,
+        "interactive": 6
+      },
+      "entries": 12
+    },
+    {
+      "masterclass": 14,
+      "source_assignments": 12,
+      "represented": 12,
+      "missing": [],
+      "activity_counts": {
+        "manual": 1,
+        "interactive": 19
+      },
+      "entries": 22
+    },
+    {
+      "masterclass": 15,
+      "source_assignments": 1,
+      "represented": 1,
+      "missing": [],
+      "activity_counts": {
+        "manual": 1
+      },
+      "entries": 3
+    },
+    {
+      "masterclass": 16,
+      "source_assignments": 13,
+      "represented": 13,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 38,
+        "manual": 3
+      },
+      "entries": 43
+    },
+    {
+      "masterclass": 17,
+      "source_assignments": 11,
+      "represented": 11,
+      "missing": [],
+      "activity_counts": {
+        "manual": 3,
+        "interactive": 9,
+        "optional": 10
+      },
+      "entries": 24
+    },
+    {
+      "masterclass": 18,
+      "source_assignments": 8,
+      "represented": 8,
+      "missing": [],
+      "activity_counts": {
+        "manual": 4,
+        "interactive": 14,
+        "optional": 12
+      },
+      "entries": 32
+    },
+    {
+      "masterclass": 19,
+      "source_assignments": 11,
+      "represented": 11,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 27,
+        "manual": 4
+      },
+      "entries": 33
+    },
+    {
+      "masterclass": 20,
+      "source_assignments": 8,
+      "represented": 8,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 6,
+        "manual": 2,
+        "optional": 5
+      },
+      "entries": 15
+    },
+    {
+      "masterclass": 21,
+      "source_assignments": 7,
+      "represented": 7,
+      "missing": [],
+      "activity_counts": {
+        "manual": 4,
+        "interactive": 3,
+        "optional": 10
+      },
+      "entries": 19
+    },
+    {
+      "masterclass": 22,
+      "source_assignments": 7,
+      "represented": 7,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 3,
+        "manual": 4,
+        "optional": 40
+      },
+      "entries": 49
+    },
+    {
+      "masterclass": 23,
+      "source_assignments": 3,
+      "represented": 3,
+      "missing": [],
+      "activity_counts": {
+        "manual": 3,
+        "optional": 8
+      },
+      "entries": 13
+    },
+    {
+      "masterclass": 24,
+      "source_assignments": 11,
+      "represented": 11,
+      "missing": [],
+      "activity_counts": {
+        "interactive": 2,
+        "optional": 5,
+        "manual": 5
+      },
+      "entries": 14
+    }
+  ],
+  "source_assignments": 241,
+  "represented": 241,
+  "missing": [],
+  "deferred": [
+    "master-class-12-p20",
+    "master-class-12-p21",
+    "master-class-12-p22",
+    "master-class-12-p23",
+    "master-class-12-p24"
+  ],
+  "errors": [],
+  "total_app_entries_including_tests_utilities": 449
+}

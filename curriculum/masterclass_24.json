@@ -1,0 +1,3256 @@
+{
+  "id": 24,
+  "title": "Masterclass 24",
+  "description": "Phase 3 polishing and optional advanced challenges; universal timbre work and final aural-recall verification assignment.",
+  "practices": [
+    {
+      "id": 0,
+      "title": "Listen to masterclass",
+      "description": "Original source recording.",
+      "maxHits": 1,
+      "practiceType": "PLAYER",
+      "practice_uid": "master-class-24--player",
+      "link": "https://www.youtube.com/watch?v=YaPVo0VHGs8"
+    },
+    {
+      "id": 1,
+      "title": "Comments",
+      "description": "Source and adaptation notes.",
+      "maxHits": 1,
+      "practiceType": "COMMENTS",
+      "practice_uid": "master-class-24--comments",
+      "text": "Source review: text_supported_audio_unverified. Source instructions and app adaptations are separated in Practice info / source. Optional practices are excluded from mastery. Manual logs do not establish correctness. See docs/CLASSES_22_24.md."
+    },
+    {
+      "id": 2,
+      "title": "Solo aural recall with a selected target",
+      "description": "Write all twelve tone names on cards and draw one from a hat/box, or point to a piano key without playing it. Sing the selected pitch before playing it; play to check. For an error, compare the sung pitch with the intended pitch live, then gently think of each color inwardly. Do not strain to imagine vivid colors.",
+      "maxHits": 0,
+      "practiceType": "MEDITATION",
+      "practice_uid": "master-class-24-p01",
+      "source_practice_id": "master-class-24-p01",
+      "implementation_status": "implemented",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Learn the solo recall procedure, live/mental error comparison, and non-straining approach.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 576.15,
+            "end": 617.45,
+            "description": "Select a tone using cards or an unplayed piano key, sing before sounding it, then compare errors."
+          },
+          {
+            "start": 617.83,
+            "end": 651.03,
+            "description": "Compare wrong and intended pitch colors inwardly after hearing them live."
+          },
+          {
+            "start": 660.95,
+            "end": 703.41,
+            "description": "Recall gently and correct errors without straining the imagination."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "solo learners"
+        ],
+        "skill": "recall a named pitch before hearing it",
+        "source_instructions": [
+          "Write all twelve tone names on cards and draw one from a hat/box, or point to a piano key without playing it.",
+          "Sing the selected pitch before playing it; play to check.",
+          "For an error, compare the sung pitch with the intended pitch live, then gently think of each color inwardly.",
+          "Do not strain to imagine vivid colors."
+        ],
+        "materials": {
+          "target_options": [
+            "Cards naming all twelve tones in a hat or box",
+            "Unplayed piano key"
+          ],
+          "checking_instrument": null
+        },
+        "presentation": "Choose a target without sounding it first; G and A-flat are explanatory examples.",
+        "response": "Sing the target from memory, then check against the instrument.",
+        "correction": "Listen to the wrong and correct pitches, then easily recall their contrasting feelings mentally.",
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 108,
+            "start": 549.66,
+            "end": 558.53,
+            "quote": "oral recall by myself all right now this advanced stage of perfect pitch where you can just sing any"
+          },
+          {
+            "segment_id": 109,
+            "start": 558.53,
+            "end": 563.55,
+            "quote": "tone at will what you can do by yourself you don't even need a partner for this"
+          },
+          {
+            "segment_id": 110,
+            "start": 563.55,
+            "end": 568.95,
+            "quote": "if you have color discrimination and you can even do this if you don't have color"
+          },
+          {
+            "segment_id": 111,
+            "start": 568.95,
+            "end": 576.15,
+            "quote": "discrimination because remember these levels all grow up simultaneously but it"
+          },
+          {
+            "segment_id": 112,
+            "start": 576.15,
+            "end": 581.39,
+            "quote": "works best when you've already developed your color discrimination just write out"
+          },
+          {
+            "segment_id": 113,
+            "start": 581.39,
+            "end": 590.09,
+            "quote": "the notes A, Bb, B, C, C sharp, D, all of the 12 tones on a card and put them in a hat"
+          },
+          {
+            "segment_id": 114,
+            "start": 590.09,
+            "end": 594.71,
+            "quote": "or put them in a box and just pick out one. Or just reach out to your piano and point"
+          },
+          {
+            "segment_id": 115,
+            "start": 594.71,
+            "end": 600.77,
+            "quote": "to one. You're not looking and just point to this G here. And then sing that G before"
+          },
+          {
+            "segment_id": 116,
+            "start": 600.77,
+            "end": 606.53,
+            "quote": "you play it. Then play it and see if you were right. And if you're not, see where you were"
+          },
+          {
+            "segment_id": 117,
+            "start": 606.53,
+            "end": 612.17,
+            "quote": "were wrong. If you sang a wrong note, if you sang an A-flat, then listen to the color of"
+          },
+          {
+            "segment_id": 118,
+            "start": 612.17,
+            "end": 617.45,
+            "quote": "the A-flat and then listen to the color of the G. But you have to go further than this."
+          },
+          {
+            "segment_id": 119,
+            "start": 617.83,
+            "end": 624.95,
+            "quote": "Then you have to mentally think of the color of the A-flat and mentally think of the color"
+          },
+          {
+            "segment_id": 120,
+            "start": 624.95,
+            "end": 632.91,
+            "quote": "of the G. It's easier to hear the pitch colors live. Hear that the A-flat is kind of a soft"
+          },
+          {
+            "segment_id": 121,
+            "start": 632.91,
+            "end": 637.73,
+            "quote": "soft quality, and the G is a little different. But then when you think of it mentally and"
+          },
+          {
+            "segment_id": 122,
+            "start": 637.73,
+            "end": 644.53,
+            "quote": "you kind of hear it inwardly, inside your own mind, the difference between those colors,"
+          },
+          {
+            "segment_id": 123,
+            "start": 644.65,
+            "end": 651.03,
+            "quote": "then this is where the aural recall develops. We have to have heard the colors live quite"
+          },
+          {
+            "segment_id": 124,
+            "start": 651.03,
+            "end": 656.51,
+            "quote": "nicely before then we can start to remember them, because memory is always a little bit"
+          },
+          {
+            "segment_id": 125,
+            "start": 656.51,
+            "end": 660.11,
+            "quote": "more vague than the actual experience itself, of course."
+          },
+          {
+            "segment_id": 126,
+            "start": 660.95,
+            "end": 664.43,
+            "quote": "Now, one thing we don't do is we don't strain our minds"
+          },
+          {
+            "segment_id": 127,
+            "start": 664.43,
+            "end": 666.07,
+            "quote": "by trying to imagine these colors"
+          },
+          {
+            "segment_id": 128,
+            "start": 666.07,
+            "end": 668.45,
+            "quote": "and clearly hearing the difference in the mind."
+          },
+          {
+            "segment_id": 129,
+            "start": 668.55,
+            "end": 670.19,
+            "quote": "No, no, this is going to give a headache."
+          },
+          {
+            "segment_id": 130,
+            "start": 670.61,
+            "end": 673.41,
+            "quote": "What we do is we just gently allow ourselves"
+          },
+          {
+            "segment_id": 131,
+            "start": 673.41,
+            "end": 676.15,
+            "quote": "to think of these colors just very easily."
+          },
+          {
+            "segment_id": 132,
+            "start": 676.41,
+            "end": 678.65,
+            "quote": "The aural recall will grow naturally."
+          },
+          {
+            "segment_id": 133,
+            "start": 678.93,
+            "end": 681.63,
+            "quote": "The more times you try to remember a pitch,"
+          },
+          {
+            "segment_id": 134,
+            "start": 682.35,
+            "end": 685.07,
+            "quote": "the more the mind will start to click into gear"
+          },
+          {
+            "segment_id": 135,
+            "start": 685.07,
+            "end": 687.69,
+            "quote": "with producing that pitch for you."
+          },
+          {
+            "segment_id": 136,
+            "start": 687.73,
+            "end": 689.93,
+            "quote": "If you always know an A every time you hear it,"
+          },
+          {
+            "segment_id": 137,
+            "start": 690.11,
+            "end": 693.97,
+            "quote": "It's not much of a step to be able to think up that A by yourself."
+          },
+          {
+            "segment_id": 138,
+            "start": 694.15,
+            "end": 697.97,
+            "quote": "So you just keep trying to think it up, and when you get it wrong, you correct that error."
+          },
+          {
+            "segment_id": 139,
+            "start": 698.09,
+            "end": 702.27,
+            "quote": "But remember, we always do it easily. We never strain doing this."
+          },
+          {
+            "segment_id": 140,
+            "start": 702.33,
+            "end": 703.41,
+            "quote": "Very, very important point."
+          }
+        ],
+        "prerequisites": [
+          "Color discrimination is recommended for best results, but the source permits trying earlier."
+        ],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No tuning tolerance, vocal range, or quota is specified for this preparatory version."
+        ],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit.",
+          "Choose/show the named target without sounding it, sing first, then sound it to check yourself. On error compare the wrong and intended sounds live and gently inwardly. No microphone scoring or source quota; maxHits is zero for open recall."
+        ]
+      },
+      "purpose": "Learn the solo recall procedure, live/mental error comparison, and non-straining approach.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 576.15,
+          "end": 617.45,
+          "description": "Select a tone using cards or an unplayed piano key, sing before sounding it, then compare errors."
+        },
+        {
+          "start": 617.83,
+          "end": 651.03,
+          "description": "Compare wrong and intended pitch colors inwardly after hearing them live."
+        },
+        {
+          "start": 660.95,
+          "end": 703.41,
+          "description": "Recall gently and correct errors without straining the imagination."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "solo learners"
+      ],
+      "skill": "recall a named pitch before hearing it",
+      "source_instructions": [
+        "Write all twelve tone names on cards and draw one from a hat/box, or point to a piano key without playing it.",
+        "Sing the selected pitch before playing it; play to check.",
+        "For an error, compare the sung pitch with the intended pitch live, then gently think of each color inwardly.",
+        "Do not strain to imagine vivid colors."
+      ],
+      "materials": {
+        "target_options": [
+          "Cards naming all twelve tones in a hat or box",
+          "Unplayed piano key"
+        ],
+        "checking_instrument": null
+      },
+      "presentation": "Choose a target without sounding it first; G and A-flat are explanatory examples.",
+      "response": "Sing the target from memory, then check against the instrument.",
+      "correction": "Listen to the wrong and correct pitches, then easily recall their contrasting feelings mentally.",
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 108,
+          "start": 549.66,
+          "end": 558.53,
+          "quote": "oral recall by myself all right now this advanced stage of perfect pitch where you can just sing any"
+        },
+        {
+          "segment_id": 109,
+          "start": 558.53,
+          "end": 563.55,
+          "quote": "tone at will what you can do by yourself you don't even need a partner for this"
+        },
+        {
+          "segment_id": 110,
+          "start": 563.55,
+          "end": 568.95,
+          "quote": "if you have color discrimination and you can even do this if you don't have color"
+        },
+        {
+          "segment_id": 111,
+          "start": 568.95,
+          "end": 576.15,
+          "quote": "discrimination because remember these levels all grow up simultaneously but it"
+        },
+        {
+          "segment_id": 112,
+          "start": 576.15,
+          "end": 581.39,
+          "quote": "works best when you've already developed your color discrimination just write out"
+        },
+        {
+          "segment_id": 113,
+          "start": 581.39,
+          "end": 590.09,
+          "quote": "the notes A, Bb, B, C, C sharp, D, all of the 12 tones on a card and put them in a hat"
+        },
+        {
+          "segment_id": 114,
+          "start": 590.09,
+          "end": 594.71,
+          "quote": "or put them in a box and just pick out one. Or just reach out to your piano and point"
+        },
+        {
+          "segment_id": 115,
+          "start": 594.71,
+          "end": 600.77,
+          "quote": "to one. You're not looking and just point to this G here. And then sing that G before"
+        },
+        {
+          "segment_id": 116,
+          "start": 600.77,
+          "end": 606.53,
+          "quote": "you play it. Then play it and see if you were right. And if you're not, see where you were"
+        },
+        {
+          "segment_id": 117,
+          "start": 606.53,
+          "end": 612.17,
+          "quote": "were wrong. If you sang a wrong note, if you sang an A-flat, then listen to the color of"
+        },
+        {
+          "segment_id": 118,
+          "start": 612.17,
+          "end": 617.45,
+          "quote": "the A-flat and then listen to the color of the G. But you have to go further than this."
+        },
+        {
+          "segment_id": 119,
+          "start": 617.83,
+          "end": 624.95,
+          "quote": "Then you have to mentally think of the color of the A-flat and mentally think of the color"
+        },
+        {
+          "segment_id": 120,
+          "start": 624.95,
+          "end": 632.91,
+          "quote": "of the G. It's easier to hear the pitch colors live. Hear that the A-flat is kind of a soft"
+        },
+        {
+          "segment_id": 121,
+          "start": 632.91,
+          "end": 637.73,
+          "quote": "soft quality, and the G is a little different. But then when you think of it mentally and"
+        },
+        {
+          "segment_id": 122,
+          "start": 637.73,
+          "end": 644.53,
+          "quote": "you kind of hear it inwardly, inside your own mind, the difference between those colors,"
+        },
+        {
+          "segment_id": 123,
+          "start": 644.65,
+          "end": 651.03,
+          "quote": "then this is where the aural recall develops. We have to have heard the colors live quite"
+        },
+        {
+          "segment_id": 124,
+          "start": 651.03,
+          "end": 656.51,
+          "quote": "nicely before then we can start to remember them, because memory is always a little bit"
+        },
+        {
+          "segment_id": 125,
+          "start": 656.51,
+          "end": 660.11,
+          "quote": "more vague than the actual experience itself, of course."
+        },
+        {
+          "segment_id": 126,
+          "start": 660.95,
+          "end": 664.43,
+          "quote": "Now, one thing we don't do is we don't strain our minds"
+        },
+        {
+          "segment_id": 127,
+          "start": 664.43,
+          "end": 666.07,
+          "quote": "by trying to imagine these colors"
+        },
+        {
+          "segment_id": 128,
+          "start": 666.07,
+          "end": 668.45,
+          "quote": "and clearly hearing the difference in the mind."
+        },
+        {
+          "segment_id": 129,
+          "start": 668.55,
+          "end": 670.19,
+          "quote": "No, no, this is going to give a headache."
+        },
+        {
+          "segment_id": 130,
+          "start": 670.61,
+          "end": 673.41,
+          "quote": "What we do is we just gently allow ourselves"
+        },
+        {
+          "segment_id": 131,
+          "start": 673.41,
+          "end": 676.15,
+          "quote": "to think of these colors just very easily."
+        },
+        {
+          "segment_id": 132,
+          "start": 676.41,
+          "end": 678.65,
+          "quote": "The aural recall will grow naturally."
+        },
+        {
+          "segment_id": 133,
+          "start": 678.93,
+          "end": 681.63,
+          "quote": "The more times you try to remember a pitch,"
+        },
+        {
+          "segment_id": 134,
+          "start": 682.35,
+          "end": 685.07,
+          "quote": "the more the mind will start to click into gear"
+        },
+        {
+          "segment_id": 135,
+          "start": 685.07,
+          "end": 687.69,
+          "quote": "with producing that pitch for you."
+        },
+        {
+          "segment_id": 136,
+          "start": 687.73,
+          "end": 689.93,
+          "quote": "If you always know an A every time you hear it,"
+        },
+        {
+          "segment_id": 137,
+          "start": 690.11,
+          "end": 693.97,
+          "quote": "It's not much of a step to be able to think up that A by yourself."
+        },
+        {
+          "segment_id": 138,
+          "start": 694.15,
+          "end": 697.97,
+          "quote": "So you just keep trying to think it up, and when you get it wrong, you correct that error."
+        },
+        {
+          "segment_id": 139,
+          "start": 698.09,
+          "end": 702.27,
+          "quote": "But remember, we always do it easily. We never strain doing this."
+        },
+        {
+          "segment_id": 140,
+          "start": 702.33,
+          "end": 703.41,
+          "quote": "Very, very important point."
+        }
+      ],
+      "prerequisites": [
+        "Color discrimination is recommended for best results, but the source permits trying earlier."
+      ],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No tuning tolerance, vocal range, or quota is specified for this preparatory version."
+      ],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit.",
+        "Choose/show the named target without sounding it, sing first, then sound it to check yourself. On error compare the wrong and intended sounds live and gently inwardly. No microphone scoring or source quota; maxHits is zero for open recall."
+      ],
+      "formula": {
+        "selection": "single",
+        "note_count": 1,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "recall",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "self_report"
+      },
+      "semitone_assistance": false,
+      "sourceInfo": {
+        "purpose": "Learn the solo recall procedure, live/mental error comparison, and non-straining approach.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 576.15,
+            "end": 617.45,
+            "description": "Select a tone using cards or an unplayed piano key, sing before sounding it, then compare errors."
+          },
+          {
+            "start": 617.83,
+            "end": 651.03,
+            "description": "Compare wrong and intended pitch colors inwardly after hearing them live."
+          },
+          {
+            "start": 660.95,
+            "end": 703.41,
+            "description": "Recall gently and correct errors without straining the imagination."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Optional register and chord-size expansion",
+      "description": "Optionally expand to higher and lower octaves. Optionally try four- and five-note chords. Choose according to your instrument and interests. Optional only: choose register expansion and four-/five-note chord work on your own instrument. The current formula engine supports at most four notes; no executable five-note bank, compulsory full range or fabricated chord bank is supplied.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p02",
+      "source_practice_id": "master-class-24-p02",
+      "implementation_status": "manual",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check optional register and chord-size extensions without making them mandatory progression gates.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 750.72,
+            "end": 786.27,
+            "description": "Optional high/low octave expansion according to interests and instrument."
+          },
+          {
+            "start": 787.17,
+            "end": 801.99,
+            "description": "Four-/five-note chords and optional ear-teaser suggestions."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "learners seeking further polishing"
+        ],
+        "skill": "extend identification range and chord analysis",
+        "source_instructions": [
+          "Optionally expand to higher and lower octaves.",
+          "Optionally try four- and five-note chords.",
+          "Choose according to your instrument and interests."
+        ],
+        "materials": {
+          "optional_chord_sizes": [
+            4,
+            5
+          ]
+        },
+        "presentation": "Self-directed extensions of earlier drills.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 146,
+            "start": 726.76,
+            "end": 734.04,
+            "quote": "Well, we can polish our ear at this point. There's many things we can do, and again,"
+          },
+          {
+            "segment_id": 147,
+            "start": 734.78,
+            "end": 744.06,
+            "quote": "you are going to guide yourselves now. You see the theory with your minds, and you have heard"
+          },
+          {
+            "segment_id": 148,
+            "start": 744.06,
+            "end": 750.72,
+            "quote": "with your own ears the colors. You see what I mean now when I said the colors are a feeling?"
+          },
+          {
+            "segment_id": 149,
+            "start": 750.72,
+            "end": 759.9,
+            "quote": "feeling. You feel when you hear a tone what it is. Now how do you polish this? Well, do"
+          },
+          {
+            "segment_id": 150,
+            "start": 759.9,
+            "end": 767.24,
+            "quote": "whatever you want. Add octaves. You can expand your range to the very top part of the keyboard"
+          },
+          {
+            "segment_id": 151,
+            "start": 767.24,
+            "end": 776.23,
+            "quote": "and get way down here to these low tones. You can actually sit there and learn that"
+          },
+          {
+            "segment_id": 152,
+            "start": 776.23,
+            "end": 781.59,
+            "quote": "low A. It depends if you want to do that. Maybe if you're a guitarist, you don't want"
+          },
+          {
+            "segment_id": 153,
+            "start": 781.59,
+            "end": 786.27,
+            "quote": "to expand your range all the way down there. It doesn't make any difference. It's all up to you."
+          },
+          {
+            "segment_id": 154,
+            "start": 787.17,
+            "end": 794.99,
+            "quote": "You can do four-note chords, five-note chords. Check out the ear teasers for super ears that are"
+          },
+          {
+            "segment_id": 155,
+            "start": 794.99,
+            "end": 801.99,
+            "quote": "in your handbook. These are really fun drills. My buddy Richard, my piano buddy I had told you"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No compulsory full piano range, chord bank, or completion threshold is given."
+        ],
+        "app_adaptations": [
+          "Optional only: choose register expansion and four-/five-note chord work on your own instrument. The current formula engine supports at most four notes; no executable five-note bank, compulsory full range or fabricated chord bank is supplied. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check optional register and chord-size extensions without making them mandatory progression gates.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 750.72,
+          "end": 786.27,
+          "description": "Optional high/low octave expansion according to interests and instrument."
+        },
+        {
+          "start": 787.17,
+          "end": 801.99,
+          "description": "Four-/five-note chords and optional ear-teaser suggestions."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "learners seeking further polishing"
+      ],
+      "skill": "extend identification range and chord analysis",
+      "source_instructions": [
+        "Optionally expand to higher and lower octaves.",
+        "Optionally try four- and five-note chords.",
+        "Choose according to your instrument and interests."
+      ],
+      "materials": {
+        "optional_chord_sizes": [
+          4,
+          5
+        ]
+      },
+      "presentation": "Self-directed extensions of earlier drills.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 146,
+          "start": 726.76,
+          "end": 734.04,
+          "quote": "Well, we can polish our ear at this point. There's many things we can do, and again,"
+        },
+        {
+          "segment_id": 147,
+          "start": 734.78,
+          "end": 744.06,
+          "quote": "you are going to guide yourselves now. You see the theory with your minds, and you have heard"
+        },
+        {
+          "segment_id": 148,
+          "start": 744.06,
+          "end": 750.72,
+          "quote": "with your own ears the colors. You see what I mean now when I said the colors are a feeling?"
+        },
+        {
+          "segment_id": 149,
+          "start": 750.72,
+          "end": 759.9,
+          "quote": "feeling. You feel when you hear a tone what it is. Now how do you polish this? Well, do"
+        },
+        {
+          "segment_id": 150,
+          "start": 759.9,
+          "end": 767.24,
+          "quote": "whatever you want. Add octaves. You can expand your range to the very top part of the keyboard"
+        },
+        {
+          "segment_id": 151,
+          "start": 767.24,
+          "end": 776.23,
+          "quote": "and get way down here to these low tones. You can actually sit there and learn that"
+        },
+        {
+          "segment_id": 152,
+          "start": 776.23,
+          "end": 781.59,
+          "quote": "low A. It depends if you want to do that. Maybe if you're a guitarist, you don't want"
+        },
+        {
+          "segment_id": 153,
+          "start": 781.59,
+          "end": 786.27,
+          "quote": "to expand your range all the way down there. It doesn't make any difference. It's all up to you."
+        },
+        {
+          "segment_id": 154,
+          "start": 787.17,
+          "end": 794.99,
+          "quote": "You can do four-note chords, five-note chords. Check out the ear teasers for super ears that are"
+        },
+        {
+          "segment_id": 155,
+          "start": 794.99,
+          "end": 801.99,
+          "quote": "in your handbook. These are really fun drills. My buddy Richard, my piano buddy I had told you"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No compulsory full piano range, chord bank, or completion threshold is given."
+      ],
+      "app_adaptations": [
+        "Optional only: choose register expansion and four-/five-note chord work on your own instrument. The current formula engine supports at most four notes; no executable five-note bank, compulsory full range or fabricated chord bank is supplied. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check optional register and chord-size extensions without making them mandatory progression gates.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 750.72,
+            "end": 786.27,
+            "description": "Optional high/low octave expansion according to interests and instrument."
+          },
+          {
+            "start": 787.17,
+            "end": 801.99,
+            "description": "Four-/five-note chords and optional ear-teaser suggestions."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Missing tone in a scale",
+      "description": "Use a whole C-major scale with one tone omitted. Find its root and mentally climb the scale to find the absent tone. Whole-tone scales are another option. Work live rather than attempting to decode the recorded example.",
+      "maxHits": 0,
+      "practiceType": "MISSING_TONE",
+      "practice_uid": "master-class-24-p03",
+      "source_practice_id": "master-class-24-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check the optional live missing-scale-tone challenge and its listening strategy.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 807.71,
+            "end": 861.67,
+            "description": "Live C-major scale with one omitted tone: find the root and climb mentally to the gap; do not decode the recording as a pitch test."
+          },
+          {
+            "start": 862.09,
+            "end": 876.56,
+            "description": "Whole-tone scales are another optional version, with A-sharp as a spoken omission example."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "advanced learners with a partner or live chord presentation"
+        ],
+        "skill": "auditory separation and missing-tone identification",
+        "source_instructions": [
+          "Use a whole C-major scale with one tone omitted.",
+          "Find its root and mentally climb the scale to find the absent tone.",
+          "Whole-tone scales are another option.",
+          "Work live rather than attempting to decode the recorded example."
+        ],
+        "materials": {
+          "scale_options": [
+            "C major",
+            "whole-tone scale"
+          ],
+          "omitted_tones": 1
+        },
+        "presentation": "Scale tones presented as a live combined sound with one omitted; G and A-sharp are example omissions, not fixed requirements.",
+        "response": "Identify the missing tone.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 157,
+            "start": 807.71,
+            "end": 816.91,
+            "quote": "school. We do things like maybe take an entire C major scale, except we're leaving one tone"
+          },
+          {
+            "segment_id": 158,
+            "start": 816.91,
+            "end": 822.85,
+            "quote": "out. Don't try to hear this on this CD or this tape that you're listening to because"
+          },
+          {
+            "segment_id": 159,
+            "start": 822.85,
+            "end": 829.63,
+            "quote": "this is very hard to hear this. You have to kind of be live with this. But I've got C,"
+          },
+          {
+            "segment_id": 160,
+            "start": 829.63,
+            "end": 841.45,
+            "quote": "C, D, E, F, and I've skipped G, and then I've got A, B, and C. So what you have to do is"
+          },
+          {
+            "segment_id": 161,
+            "start": 841.45,
+            "end": 846.39,
+            "quote": "you have to listen very carefully and find the root of all those tones, which is the"
+          },
+          {
+            "segment_id": 162,
+            "start": 846.39,
+            "end": 856.07,
+            "quote": "C, and then climb up in your mind's ear until you don't hear one of the tones."
+          },
+          {
+            "segment_id": 163,
+            "start": 856.07,
+            "end": 861.67,
+            "quote": "The G is missing, and that is your challenge there, to find the missing tone."
+          },
+          {
+            "segment_id": 164,
+            "start": 862.09,
+            "end": 864.99,
+            "quote": "You can do this with whole tone scales as well."
+          },
+          {
+            "segment_id": 165,
+            "start": 867.97,
+            "end": 876.56,
+            "quote": "I've got a whole tone scale, except I've left out the A sharp."
+          },
+          {
+            "segment_id": 166,
+            "start": 878.26,
+            "end": 879.88,
+            "quote": "You just have to work with these."
+          },
+          {
+            "segment_id": 167,
+            "start": 880.14,
+            "end": 881.6,
+            "quote": "You may think they're impossible."
+          },
+          {
+            "segment_id": 168,
+            "start": 882.24,
+            "end": 883.5,
+            "quote": "They're not impossible."
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [
+          "Treat this as an optional ear teaser, not a required progression gate."
+        ],
+        "uncertainties": [
+          "Octave/voicing details beyond the spoken C-major example are not specified.",
+          "Spoken note labels do not verify the recording’s pitches."
+        ],
+        "app_adaptations": [
+          "Optional generated C-major missing-tone teaser: seven unique scale notes from root MIDI60, one omitted, six sounded simultaneously. No octave-doubled root. This app voicing is not the exact source C-to-C example or verified recorded audio. Omission varies; G is only a source example. No success quota or note-help controls."
+        ]
+      },
+      "purpose": "Check the optional live missing-scale-tone challenge and its listening strategy.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 807.71,
+          "end": 861.67,
+          "description": "Live C-major scale with one omitted tone: find the root and climb mentally to the gap; do not decode the recording as a pitch test."
+        },
+        {
+          "start": 862.09,
+          "end": 876.56,
+          "description": "Whole-tone scales are another optional version, with A-sharp as a spoken omission example."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "advanced learners with a partner or live chord presentation"
+      ],
+      "skill": "auditory separation and missing-tone identification",
+      "source_instructions": [
+        "Use a whole C-major scale with one tone omitted.",
+        "Find its root and mentally climb the scale to find the absent tone.",
+        "Whole-tone scales are another option.",
+        "Work live rather than attempting to decode the recorded example."
+      ],
+      "materials": {
+        "scale_options": [
+          "C major",
+          "whole-tone scale"
+        ],
+        "omitted_tones": 1
+      },
+      "presentation": "Scale tones presented as a live combined sound with one omitted; G and A-sharp are example omissions, not fixed requirements.",
+      "response": "Identify the missing tone.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 157,
+          "start": 807.71,
+          "end": 816.91,
+          "quote": "school. We do things like maybe take an entire C major scale, except we're leaving one tone"
+        },
+        {
+          "segment_id": 158,
+          "start": 816.91,
+          "end": 822.85,
+          "quote": "out. Don't try to hear this on this CD or this tape that you're listening to because"
+        },
+        {
+          "segment_id": 159,
+          "start": 822.85,
+          "end": 829.63,
+          "quote": "this is very hard to hear this. You have to kind of be live with this. But I've got C,"
+        },
+        {
+          "segment_id": 160,
+          "start": 829.63,
+          "end": 841.45,
+          "quote": "C, D, E, F, and I've skipped G, and then I've got A, B, and C. So what you have to do is"
+        },
+        {
+          "segment_id": 161,
+          "start": 841.45,
+          "end": 846.39,
+          "quote": "you have to listen very carefully and find the root of all those tones, which is the"
+        },
+        {
+          "segment_id": 162,
+          "start": 846.39,
+          "end": 856.07,
+          "quote": "C, and then climb up in your mind's ear until you don't hear one of the tones."
+        },
+        {
+          "segment_id": 163,
+          "start": 856.07,
+          "end": 861.67,
+          "quote": "The G is missing, and that is your challenge there, to find the missing tone."
+        },
+        {
+          "segment_id": 164,
+          "start": 862.09,
+          "end": 864.99,
+          "quote": "You can do this with whole tone scales as well."
+        },
+        {
+          "segment_id": 165,
+          "start": 867.97,
+          "end": 876.56,
+          "quote": "I've got a whole tone scale, except I've left out the A sharp."
+        },
+        {
+          "segment_id": 166,
+          "start": 878.26,
+          "end": 879.88,
+          "quote": "You just have to work with these."
+        },
+        {
+          "segment_id": 167,
+          "start": 880.14,
+          "end": 881.6,
+          "quote": "You may think they're impossible."
+        },
+        {
+          "segment_id": 168,
+          "start": 882.24,
+          "end": 883.5,
+          "quote": "They're not impossible."
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [
+        "Treat this as an optional ear teaser, not a required progression gate."
+      ],
+      "uncertainties": [
+        "Octave/voicing details beyond the spoken C-major example are not specified.",
+        "Spoken note labels do not verify the recording’s pitches."
+      ],
+      "app_adaptations": [
+        "Optional generated C-major missing-tone teaser: seven unique scale notes from root MIDI60, one omitted, six sounded simultaneously. No octave-doubled root. This app voicing is not the exact source C-to-C example or verified recorded audio. Omission varies; G is only a source example. No success quota or note-help controls."
+      ],
+      "missing_tone": {
+        "mode": "major_scale",
+        "root_midi": 60
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": false,
+      "sourceInfo": {
+        "purpose": "Check the optional live missing-scale-tone challenge and its listening strategy.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 807.71,
+            "end": 861.67,
+            "description": "Live C-major scale with one omitted tone: find the root and climb mentally to the gap; do not decode the recording as a pitch test."
+          },
+          {
+            "start": 862.09,
+            "end": 876.56,
+            "description": "Whole-tone scales are another optional version, with A-sharp as a spoken omission example."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Missing tone in a chromatic cluster",
+      "description": "Present chromatic tones as one cluster with one tone left out. Listen for the bottom and top tones, then climb chromatically inward to locate the omission. Take time to listen rather than expecting a quick answer.",
+      "maxHits": 0,
+      "practiceType": "MISSING_TONE",
+      "practice_uid": "master-class-24-p04",
+      "source_practice_id": "master-class-24-p04",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check the chromatic-cluster challenge and the slow boundary-to-interior listening method.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 900.9,
+            "end": 926.14,
+            "description": "Present one chromatic cluster with a missing tone; find the bottom and take time."
+          },
+          {
+            "start": 928.15,
+            "end": 974.65,
+            "description": "Find the top, climb chromatically, and locate the omission; narrated note names are examples, not verified pitches."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "advanced learners with a partner or live chord presentation"
+        ],
+        "skill": "auditory separation in a dissonant cluster",
+        "source_instructions": [
+          "Present chromatic tones as one cluster with one tone left out.",
+          "Listen for the bottom and top tones, then climb chromatically inward to locate the omission.",
+          "Take time to listen rather than expecting a quick answer."
+        ],
+        "materials": {
+          "pattern": "Chromatic cluster",
+          "omitted_tones": 1
+        },
+        "presentation": "Simultaneous chromatic cluster; the narrated C-to-A cluster missing F is an example.",
+        "response": "Identify the missing tone.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 170,
+            "start": 898.24,
+            "end": 900.72,
+            "quote": "This is one of the things that Richard and I used to like to do."
+          },
+          {
+            "segment_id": 171,
+            "start": 900.9,
+            "end": 911.26,
+            "quote": "You take chromatic tones in one big cluster, but I'm leaving out one of the tones."
+          },
+          {
+            "segment_id": 172,
+            "start": 911.86,
+            "end": 919.82,
+            "quote": "Now, the way I would always get this when we would do this together, I would first listen"
+          },
+          {
+            "segment_id": 173,
+            "start": 919.82,
+            "end": 921.34,
+            "quote": "for the bottom tone."
+          },
+          {
+            "segment_id": 174,
+            "start": 921.72,
+            "end": 923.54,
+            "quote": "And don't think you're going to do this quickly."
+          },
+          {
+            "segment_id": 175,
+            "start": 923.68,
+            "end": 926.14,
+            "quote": "You have to sit there and listen a little bit to get this."
+          },
+          {
+            "segment_id": 176,
+            "start": 928.15,
+            "end": 938.43,
+            "quote": "And you hear that the bottom tone is C. And then you find the top tone, A. Then you have"
+          },
+          {
+            "segment_id": 177,
+            "start": 938.43,
+            "end": 948.39,
+            "quote": "have to climb chromatically C-sharp, D, E-flat, E, and then you don't hear the F, so that's"
+          },
+          {
+            "segment_id": 178,
+            "start": 948.39,
+            "end": 954.99,
+            "quote": "the one that's missing because we do have F-sharp, G, A-flat, and A. This is a real"
+          },
+          {
+            "segment_id": 179,
+            "start": 954.99,
+            "end": 961.95,
+            "quote": "challenge because all the tones are so dissonant, they're clashing with each other, that it's"
+          },
+          {
+            "segment_id": 180,
+            "start": 961.95,
+            "end": 967.45,
+            "quote": "sometimes difficult to get in there and find, well, which tone is not there? But these are"
+          },
+          {
+            "segment_id": 181,
+            "start": 967.45,
+            "end": 974.65,
+            "quote": "really fun drills to do to sharpen your ear and enliven it even more. There's no end to ear"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [
+          "Optional challenge; do not encode the example as the sole valid cluster."
+        ],
+        "uncertainties": [
+          "No success quota or correction routine is supplied."
+        ],
+        "app_adaptations": [
+          "Optional generated cluster uses MIDI60 through MIDI72 inclusive, with exactly one INTERIOR MIDI note omitted; both bounds always sound. Bounds and interior-only omission are explicit app choices to support boundary listening, not source requirements. Source endpoints/register are not established as a general rule; its narrated C-to-A/F example is not an audio-verified bank. No success quota or note-help controls."
+        ]
+      },
+      "purpose": "Check the chromatic-cluster challenge and the slow boundary-to-interior listening method.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 900.9,
+          "end": 926.14,
+          "description": "Present one chromatic cluster with a missing tone; find the bottom and take time."
+        },
+        {
+          "start": 928.15,
+          "end": 974.65,
+          "description": "Find the top, climb chromatically, and locate the omission; narrated note names are examples, not verified pitches."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "advanced learners with a partner or live chord presentation"
+      ],
+      "skill": "auditory separation in a dissonant cluster",
+      "source_instructions": [
+        "Present chromatic tones as one cluster with one tone left out.",
+        "Listen for the bottom and top tones, then climb chromatically inward to locate the omission.",
+        "Take time to listen rather than expecting a quick answer."
+      ],
+      "materials": {
+        "pattern": "Chromatic cluster",
+        "omitted_tones": 1
+      },
+      "presentation": "Simultaneous chromatic cluster; the narrated C-to-A cluster missing F is an example.",
+      "response": "Identify the missing tone.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 170,
+          "start": 898.24,
+          "end": 900.72,
+          "quote": "This is one of the things that Richard and I used to like to do."
+        },
+        {
+          "segment_id": 171,
+          "start": 900.9,
+          "end": 911.26,
+          "quote": "You take chromatic tones in one big cluster, but I'm leaving out one of the tones."
+        },
+        {
+          "segment_id": 172,
+          "start": 911.86,
+          "end": 919.82,
+          "quote": "Now, the way I would always get this when we would do this together, I would first listen"
+        },
+        {
+          "segment_id": 173,
+          "start": 919.82,
+          "end": 921.34,
+          "quote": "for the bottom tone."
+        },
+        {
+          "segment_id": 174,
+          "start": 921.72,
+          "end": 923.54,
+          "quote": "And don't think you're going to do this quickly."
+        },
+        {
+          "segment_id": 175,
+          "start": 923.68,
+          "end": 926.14,
+          "quote": "You have to sit there and listen a little bit to get this."
+        },
+        {
+          "segment_id": 176,
+          "start": 928.15,
+          "end": 938.43,
+          "quote": "And you hear that the bottom tone is C. And then you find the top tone, A. Then you have"
+        },
+        {
+          "segment_id": 177,
+          "start": 938.43,
+          "end": 948.39,
+          "quote": "have to climb chromatically C-sharp, D, E-flat, E, and then you don't hear the F, so that's"
+        },
+        {
+          "segment_id": 178,
+          "start": 948.39,
+          "end": 954.99,
+          "quote": "the one that's missing because we do have F-sharp, G, A-flat, and A. This is a real"
+        },
+        {
+          "segment_id": 179,
+          "start": 954.99,
+          "end": 961.95,
+          "quote": "challenge because all the tones are so dissonant, they're clashing with each other, that it's"
+        },
+        {
+          "segment_id": 180,
+          "start": 961.95,
+          "end": 967.45,
+          "quote": "sometimes difficult to get in there and find, well, which tone is not there? But these are"
+        },
+        {
+          "segment_id": 181,
+          "start": 967.45,
+          "end": 974.65,
+          "quote": "really fun drills to do to sharpen your ear and enliven it even more. There's no end to ear"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [
+        "Optional challenge; do not encode the example as the sole valid cluster."
+      ],
+      "uncertainties": [
+        "No success quota or correction routine is supplied."
+      ],
+      "app_adaptations": [
+        "Optional generated cluster uses MIDI60 through MIDI72 inclusive, with exactly one INTERIOR MIDI note omitted; both bounds always sound. Bounds and interior-only omission are explicit app choices to support boundary listening, not source requirements. Source endpoints/register are not established as a general rule; its narrated C-to-A/F example is not an audio-verified bank. No success quota or note-help controls."
+      ],
+      "missing_tone": {
+        "mode": "chromatic_cluster",
+        "cluster_low": 60,
+        "cluster_high": 72
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": false,
+      "sourceInfo": {
+        "purpose": "Check the chromatic-cluster challenge and the slow boundary-to-interior listening method.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 900.9,
+            "end": 926.14,
+            "description": "Present one chromatic cluster with a missing tone; find the bottom and take time."
+          },
+          {
+            "start": 928.15,
+            "end": 974.65,
+            "description": "Find the top, climb chromatically, and locate the omission; narrated note names are examples, not verified pitches."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Tune the guitar A string from pitch feeling",
+      "description": "Tune the A string by finding where A is. After settling on A, check with a tuning fork or tuner. Use an actual guitar: tune the A string from remembered pitch, settle on your choice, then check with a tuning fork or tuner. The app does not tune, measure cents or grade this action.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p05",
+      "source_practice_id": "master-class-24-p05",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check the tune-first, verify-afterward guitar exercise for refined pitch judgment.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1231.21,
+            "end": 1267.63,
+            "description": "Find A by tuning the A string, then check with a tuning fork or tuner; no numerical tolerance is stated."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "guitarists"
+        ],
+        "skill": "refined sharp/flat discrimination",
+        "source_instructions": [
+          "Tune the A string by finding where A is.",
+          "After settling on A, check with a tuning fork or tuner."
+        ],
+        "materials": {
+          "instrument": "guitar",
+          "string": "A",
+          "check_options": [
+            "tuning fork",
+            "tuner"
+          ]
+        },
+        "presentation": "Tune before consulting the external check.",
+        "response": "Set the string to the remembered A, then check how close it is.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 238,
+            "start": 1223.61,
+            "end": 1231.21,
+            "quote": "always improve yourself more, if you want. For example, we can develop our refined color"
+          },
+          {
+            "segment_id": 239,
+            "start": 1231.21,
+            "end": 1239.99,
+            "quote": "discrimination. You can listen very carefully to see if a tone is sharp or flat. Guitarists,"
+          },
+          {
+            "segment_id": 240,
+            "start": 1239.99,
+            "end": 1243.65,
+            "quote": "you can go to an A string and tune it."
+          },
+          {
+            "segment_id": 241,
+            "start": 1246.68,
+            "end": 1248.84,
+            "quote": "Find where the A is."
+          },
+          {
+            "segment_id": 242,
+            "start": 1249.4,
+            "end": 1253.29,
+            "quote": "And once you settle on your A,"
+          },
+          {
+            "segment_id": 243,
+            "start": 1254.17,
+            "end": 1256.61,
+            "quote": "check it with a tuning fork or a tuner"
+          },
+          {
+            "segment_id": 244,
+            "start": 1257.23,
+            "end": 1259.63,
+            "quote": "to see if you have hit the A pretty closely."
+          },
+          {
+            "segment_id": 245,
+            "start": 1260.17,
+            "end": 1264.15,
+            "quote": "This will encourage your refined color discrimination,"
+          },
+          {
+            "segment_id": 246,
+            "start": 1264.43,
+            "end": 1267.63,
+            "quote": "the ability to judge if the tone is sharp or flat."
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No cents tolerance, repetition count, or explicit correction sequence is given."
+        ],
+        "app_adaptations": [
+          "Use an actual guitar: tune the A string from remembered pitch, settle on your choice, then check with a tuning fork or tuner. The app does not tune, measure cents or grade this action. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check the tune-first, verify-afterward guitar exercise for refined pitch judgment.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1231.21,
+          "end": 1267.63,
+          "description": "Find A by tuning the A string, then check with a tuning fork or tuner; no numerical tolerance is stated."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "guitarists"
+      ],
+      "skill": "refined sharp/flat discrimination",
+      "source_instructions": [
+        "Tune the A string by finding where A is.",
+        "After settling on A, check with a tuning fork or tuner."
+      ],
+      "materials": {
+        "instrument": "guitar",
+        "string": "A",
+        "check_options": [
+          "tuning fork",
+          "tuner"
+        ]
+      },
+      "presentation": "Tune before consulting the external check.",
+      "response": "Set the string to the remembered A, then check how close it is.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 238,
+          "start": 1223.61,
+          "end": 1231.21,
+          "quote": "always improve yourself more, if you want. For example, we can develop our refined color"
+        },
+        {
+          "segment_id": 239,
+          "start": 1231.21,
+          "end": 1239.99,
+          "quote": "discrimination. You can listen very carefully to see if a tone is sharp or flat. Guitarists,"
+        },
+        {
+          "segment_id": 240,
+          "start": 1239.99,
+          "end": 1243.65,
+          "quote": "you can go to an A string and tune it."
+        },
+        {
+          "segment_id": 241,
+          "start": 1246.68,
+          "end": 1248.84,
+          "quote": "Find where the A is."
+        },
+        {
+          "segment_id": 242,
+          "start": 1249.4,
+          "end": 1253.29,
+          "quote": "And once you settle on your A,"
+        },
+        {
+          "segment_id": 243,
+          "start": 1254.17,
+          "end": 1256.61,
+          "quote": "check it with a tuning fork or a tuner"
+        },
+        {
+          "segment_id": 244,
+          "start": 1257.23,
+          "end": 1259.63,
+          "quote": "to see if you have hit the A pretty closely."
+        },
+        {
+          "segment_id": 245,
+          "start": 1260.17,
+          "end": 1264.15,
+          "quote": "This will encourage your refined color discrimination,"
+        },
+        {
+          "segment_id": 246,
+          "start": 1264.43,
+          "end": 1267.63,
+          "quote": "the ability to judge if the tone is sharp or flat."
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No cents tolerance, repetition count, or explicit correction sequence is given."
+      ],
+      "app_adaptations": [
+        "Use an actual guitar: tune the A string from remembered pitch, settle on your choice, then check with a tuning fork or tuner. The app does not tune, measure cents or grade this action. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check the tune-first, verify-afterward guitar exercise for refined pitch judgment.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1231.21,
+            "end": 1267.63,
+            "description": "Find A by tuning the A string, then check with a tuning fork or tuner; no numerical tolerance is stated."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Unfamiliar-guitar A-string tuning",
+      "description": "Use a guitar and do the same A-string tuning drill to work with a new timbre. As a non-guitarist, use an actual unfamiliar guitar for the same A-string tuning-before-checking exercise; obtain appropriate help handling it. The app supplies no fake tuning or cents measurement.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p06",
+      "source_practice_id": "master-class-24-p06",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check both the A-string tuning procedure and its unfamiliar-timbre variant for non-guitarists.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1231.21,
+            "end": 1259.63,
+            "description": "Tune the A string before checking against a tuning fork or tuner."
+          },
+          {
+            "start": 1268.67,
+            "end": 1283.45,
+            "description": "Non-guitarists may do the same drill to work with a new timbre."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "non-guitarists"
+        ],
+        "skill": "unfamiliar timbre and refined pitch discrimination",
+        "source_instructions": [
+          "Use a guitar and do the same A-string tuning drill to work with a new timbre."
+        ],
+        "materials": {
+          "instrument": "guitar unfamiliar to the learner",
+          "string": "A",
+          "check_options": [
+            "tuning fork",
+            "tuner"
+          ]
+        },
+        "presentation": "Find A by tuning, then check.",
+        "response": "Tune to the recalled A and compare with the check.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 239,
+            "start": 1231.21,
+            "end": 1239.99,
+            "quote": "discrimination. You can listen very carefully to see if a tone is sharp or flat. Guitarists,"
+          },
+          {
+            "segment_id": 240,
+            "start": 1239.99,
+            "end": 1243.65,
+            "quote": "you can go to an A string and tune it."
+          },
+          {
+            "segment_id": 241,
+            "start": 1246.68,
+            "end": 1248.84,
+            "quote": "Find where the A is."
+          },
+          {
+            "segment_id": 242,
+            "start": 1249.4,
+            "end": 1253.29,
+            "quote": "And once you settle on your A,"
+          },
+          {
+            "segment_id": 243,
+            "start": 1254.17,
+            "end": 1256.61,
+            "quote": "check it with a tuning fork or a tuner"
+          },
+          {
+            "segment_id": 244,
+            "start": 1257.23,
+            "end": 1259.63,
+            "quote": "to see if you have hit the A pretty closely."
+          },
+          {
+            "segment_id": 247,
+            "start": 1268.67,
+            "end": 1270.39,
+            "quote": "And if you don't play guitar,"
+          },
+          {
+            "segment_id": 248,
+            "start": 1270.39,
+            "end": 1276.71,
+            "quote": "then go to the guitar and do the very same drill, because this will give you a new timbre to work"
+          },
+          {
+            "segment_id": 249,
+            "start": 1276.71,
+            "end": 1283.45,
+            "quote": "with. It'll help you to develop universal color discrimination. And for those of you who are"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No tolerance or quota is specified."
+        ],
+        "app_adaptations": [
+          "As a non-guitarist, use an actual unfamiliar guitar for the same A-string tuning-before-checking exercise; obtain appropriate help handling it. The app supplies no fake tuning or cents measurement. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check both the A-string tuning procedure and its unfamiliar-timbre variant for non-guitarists.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1231.21,
+          "end": 1259.63,
+          "description": "Tune the A string before checking against a tuning fork or tuner."
+        },
+        {
+          "start": 1268.67,
+          "end": 1283.45,
+          "description": "Non-guitarists may do the same drill to work with a new timbre."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "non-guitarists"
+      ],
+      "skill": "unfamiliar timbre and refined pitch discrimination",
+      "source_instructions": [
+        "Use a guitar and do the same A-string tuning drill to work with a new timbre."
+      ],
+      "materials": {
+        "instrument": "guitar unfamiliar to the learner",
+        "string": "A",
+        "check_options": [
+          "tuning fork",
+          "tuner"
+        ]
+      },
+      "presentation": "Find A by tuning, then check.",
+      "response": "Tune to the recalled A and compare with the check.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 239,
+          "start": 1231.21,
+          "end": 1239.99,
+          "quote": "discrimination. You can listen very carefully to see if a tone is sharp or flat. Guitarists,"
+        },
+        {
+          "segment_id": 240,
+          "start": 1239.99,
+          "end": 1243.65,
+          "quote": "you can go to an A string and tune it."
+        },
+        {
+          "segment_id": 241,
+          "start": 1246.68,
+          "end": 1248.84,
+          "quote": "Find where the A is."
+        },
+        {
+          "segment_id": 242,
+          "start": 1249.4,
+          "end": 1253.29,
+          "quote": "And once you settle on your A,"
+        },
+        {
+          "segment_id": 243,
+          "start": 1254.17,
+          "end": 1256.61,
+          "quote": "check it with a tuning fork or a tuner"
+        },
+        {
+          "segment_id": 244,
+          "start": 1257.23,
+          "end": 1259.63,
+          "quote": "to see if you have hit the A pretty closely."
+        },
+        {
+          "segment_id": 247,
+          "start": 1268.67,
+          "end": 1270.39,
+          "quote": "And if you don't play guitar,"
+        },
+        {
+          "segment_id": 248,
+          "start": 1270.39,
+          "end": 1276.71,
+          "quote": "then go to the guitar and do the very same drill, because this will give you a new timbre to work"
+        },
+        {
+          "segment_id": 249,
+          "start": 1276.71,
+          "end": 1283.45,
+          "quote": "with. It'll help you to develop universal color discrimination. And for those of you who are"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No tolerance or quota is specified."
+      ],
+      "app_adaptations": [
+        "As a non-guitarist, use an actual unfamiliar guitar for the same A-string tuning-before-checking exercise; obtain appropriate help handling it. The app supplies no fake tuning or cents measurement. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check both the A-string tuning procedure and its unfamiliar-timbre variant for non-guitarists.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1231.21,
+            "end": 1259.63,
+            "description": "Tune the A string before checking against a tuning fork or tuner."
+          },
+          {
+            "start": 1268.67,
+            "end": 1283.45,
+            "description": "Non-guitarists may do the same drill to work with a new timbre."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Judge sung pitches for sharpness or flatness",
+      "description": "Sing tones and listen to whether they are sharp or flat. Sing and personally judge whether your voice is sharp or flat. Target selection and external checking are unspecified here. No microphone assessment or numeric tolerance is supplied.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p07",
+      "source_practice_id": "master-class-24-p07",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check the keyboardist singing-and-judgment suggestion without inventing an external scoring method.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1276.71,
+            "end": 1300.33,
+            "description": "Keyboardists may sing tones and listen for sharpness or flatness; no target schedule or tolerance is given."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "keyboardists"
+        ],
+        "skill": "refined or spectral pitch discrimination",
+        "source_instructions": [
+          "Sing tones and listen to whether they are sharp or flat."
+        ],
+        "materials": {
+          "sound_source": "learner voice"
+        },
+        "presentation": "Self-produced sung tones.",
+        "response": "Judge whether the sung tone is sharp or flat.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 249,
+            "start": 1276.71,
+            "end": 1283.45,
+            "quote": "with. It'll help you to develop universal color discrimination. And for those of you who are"
+          },
+          {
+            "segment_id": 250,
+            "start": 1283.45,
+            "end": 1293.03,
+            "quote": "keyboardists, you can go and sing tones and listen to yourself singing the tone and see if it's sharp"
+          },
+          {
+            "segment_id": 251,
+            "start": 1293.03,
+            "end": 1300.33,
+            "quote": "or flat. There are so many things you can do to test yourself to gain refined color discrimination"
+          },
+          {
+            "segment_id": 252,
+            "start": 1300.33,
+            "end": 1308.53,
+            "quote": "or spectral discrimination. If the instrument is not your instrument, if guitar is not your"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "Target selection and an external checking procedure are not specified here."
+        ],
+        "app_adaptations": [
+          "Sing and personally judge whether your voice is sharp or flat. Target selection and external checking are unspecified here. No microphone assessment or numeric tolerance is supplied. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check the keyboardist singing-and-judgment suggestion without inventing an external scoring method.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1276.71,
+          "end": 1300.33,
+          "description": "Keyboardists may sing tones and listen for sharpness or flatness; no target schedule or tolerance is given."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "keyboardists"
+      ],
+      "skill": "refined or spectral pitch discrimination",
+      "source_instructions": [
+        "Sing tones and listen to whether they are sharp or flat."
+      ],
+      "materials": {
+        "sound_source": "learner voice"
+      },
+      "presentation": "Self-produced sung tones.",
+      "response": "Judge whether the sung tone is sharp or flat.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 249,
+          "start": 1276.71,
+          "end": 1283.45,
+          "quote": "with. It'll help you to develop universal color discrimination. And for those of you who are"
+        },
+        {
+          "segment_id": 250,
+          "start": 1283.45,
+          "end": 1293.03,
+          "quote": "keyboardists, you can go and sing tones and listen to yourself singing the tone and see if it's sharp"
+        },
+        {
+          "segment_id": 251,
+          "start": 1293.03,
+          "end": 1300.33,
+          "quote": "or flat. There are so many things you can do to test yourself to gain refined color discrimination"
+        },
+        {
+          "segment_id": 252,
+          "start": 1300.33,
+          "end": 1308.53,
+          "quote": "or spectral discrimination. If the instrument is not your instrument, if guitar is not your"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "Target selection and an external checking procedure are not specified here."
+      ],
+      "app_adaptations": [
+        "Sing and personally judge whether your voice is sharp or flat. Target selection and external checking are unspecified here. No microphone assessment or numeric tolerance is supplied. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check the keyboardist singing-and-judgment suggestion without inventing an external scoring method.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1276.71,
+            "end": 1300.33,
+            "description": "Keyboardists may sing tones and listen for sharpness or flatness; no target schedule or tolerance is given."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Change synthesizer timbre and rework tones",
+      "description": "Change the synthesizer sound to a very different feeling and rework the tones. Manually change to a substantially different sound using the app’s existing instrument settings or your synthesizer settings, then rework familiar tone exercises. The app does not switch timbre automatically or certify universal recognition. Initial difficulty with an unfamiliar timbre is not failure.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p08",
+      "source_practice_id": "master-class-24-p08",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check changed-synthesizer-sound practice and the guidance for unfamiliar timbres.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1320.49,
+            "end": 1329.89,
+            "description": "Change synthesizer sound substantially and rework the tones."
+          },
+          {
+            "start": 1344.86,
+            "end": 1376.58,
+            "description": "Unfamiliar timbres can initially be difficult; continue listening rather than treating the difficulty as failure."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "modified",
+        "audience": [
+          "synthesizer players"
+        ],
+        "skill": "universal color discrimination",
+        "source_instructions": [
+          "Change the synthesizer sound to a very different feeling and rework the tones."
+        ],
+        "materials": {
+          "instrument": "synthesizer",
+          "sound": "Different timbre from the familiar practice sound"
+        },
+        "presentation": "Existing tone work with a changed synthesizer sound.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 255,
+            "start": 1320.49,
+            "end": 1329.89,
+            "quote": "Synth people, you can change your sound of your synthesizer to a whole different feeling and rework your tones."
+          },
+          {
+            "segment_id": 257,
+            "start": 1344.86,
+            "end": 1350.34,
+            "quote": "Don't be disappointed or frustrated if you can't hear the tones in the other instruments."
+          },
+          {
+            "segment_id": 258,
+            "start": 1350.34,
+            "end": 1355.8,
+            "quote": "instruments. This is natural because you now have to work on your universal color discrimination."
+          },
+          {
+            "segment_id": 259,
+            "start": 1356.79,
+            "end": 1362.76,
+            "quote": "The secret to universal color discrimination is the same as it has been all along. Just"
+          },
+          {
+            "segment_id": 260,
+            "start": 1362.76,
+            "end": 1369.82,
+            "quote": "keep listening and your ear will begin to hear just as it has already heard on your"
+          },
+          {
+            "segment_id": 261,
+            "start": 1369.82,
+            "end": 1376.58,
+            "quote": "own practice instrument in all these sessions. You hear this bird out here, this jungle bird?"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No prescribed patch, tone bank, response format, or success quota."
+        ],
+        "app_adaptations": [
+          "Manually change to a substantially different sound using the app’s existing instrument settings or your synthesizer settings, then rework familiar tone exercises. The app does not switch timbre automatically or certify universal recognition. Initial difficulty with an unfamiliar timbre is not failure. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check changed-synthesizer-sound practice and the guidance for unfamiliar timbres.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1320.49,
+          "end": 1329.89,
+          "description": "Change synthesizer sound substantially and rework the tones."
+        },
+        {
+          "start": 1344.86,
+          "end": 1376.58,
+          "description": "Unfamiliar timbres can initially be difficult; continue listening rather than treating the difficulty as failure."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "modified",
+      "audience": [
+        "synthesizer players"
+      ],
+      "skill": "universal color discrimination",
+      "source_instructions": [
+        "Change the synthesizer sound to a very different feeling and rework the tones."
+      ],
+      "materials": {
+        "instrument": "synthesizer",
+        "sound": "Different timbre from the familiar practice sound"
+      },
+      "presentation": "Existing tone work with a changed synthesizer sound.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 255,
+          "start": 1320.49,
+          "end": 1329.89,
+          "quote": "Synth people, you can change your sound of your synthesizer to a whole different feeling and rework your tones."
+        },
+        {
+          "segment_id": 257,
+          "start": 1344.86,
+          "end": 1350.34,
+          "quote": "Don't be disappointed or frustrated if you can't hear the tones in the other instruments."
+        },
+        {
+          "segment_id": 258,
+          "start": 1350.34,
+          "end": 1355.8,
+          "quote": "instruments. This is natural because you now have to work on your universal color discrimination."
+        },
+        {
+          "segment_id": 259,
+          "start": 1356.79,
+          "end": 1362.76,
+          "quote": "The secret to universal color discrimination is the same as it has been all along. Just"
+        },
+        {
+          "segment_id": 260,
+          "start": 1362.76,
+          "end": 1369.82,
+          "quote": "keep listening and your ear will begin to hear just as it has already heard on your"
+        },
+        {
+          "segment_id": 261,
+          "start": 1369.82,
+          "end": 1376.58,
+          "quote": "own practice instrument in all these sessions. You hear this bird out here, this jungle bird?"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No prescribed patch, tone bank, response format, or success quota."
+      ],
+      "app_adaptations": [
+        "Manually change to a substantially different sound using the app’s existing instrument settings or your synthesizer settings, then rework familiar tone exercises. The app does not switch timbre automatically or certify universal recognition. Initial difficulty with an unfamiliar timbre is not failure. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check changed-synthesizer-sound practice and the guidance for unfamiliar timbres.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1320.49,
+            "end": 1329.89,
+            "description": "Change synthesizer sound substantially and rework the tones."
+          },
+          {
+            "start": 1344.86,
+            "end": 1376.58,
+            "description": "Unfamiliar timbres can initially be difficult; continue listening rather than treating the difficulty as failure."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Plucked piano-string timbre example",
+      "description": "The instructor suggests plucking piano strings as another timbre. Optional source example only, NOT executable instrument-care instructions. DO NOT access piano strings or modify an instrument based on app instructions. The source gives no safe access or care procedure. Consult a qualified piano technician for a safe alternative; use a suitable existing instrument/synthesizer sound instead.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p09",
+      "source_practice_id": "master-class-24-p09",
+      "implementation_status": "manual",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Locate the optional plucked-piano-string timbre suggestion; no safe execution procedure is supplied.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1330.41,
+            "end": 1343.82,
+            "description": "Plucked piano strings are mentioned as a different timbre; this remains an optional source example."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "demonstration_only",
+        "audience": [
+          "pianists"
+        ],
+        "skill": "universal color discrimination",
+        "source_instructions": [
+          "The instructor suggests plucking piano strings as another timbre."
+        ],
+        "materials": {
+          "instrument": "piano strings"
+        },
+        "presentation": "Plucked rather than normally struck piano-string sound.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 256,
+            "start": 1330.41,
+            "end": 1343.82,
+            "quote": "You can pluck your piano strings. It gives a whole different timbre to work with in order to encourage your universal color discrimination."
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [
+          "Retain as an optional source suggestion, not an app action or required hands-on assignment."
+        ],
+        "uncertainties": [
+          "The source supplies no access, instrument-care, or safe execution procedure."
+        ],
+        "app_adaptations": [
+          "Optional source example only, NOT executable instrument-care instructions. DO NOT access piano strings or modify an instrument based on app instructions. The source gives no safe access or care procedure. Consult a qualified piano technician for a safe alternative; use a suitable existing instrument/synthesizer sound instead. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Locate the optional plucked-piano-string timbre suggestion; no safe execution procedure is supplied.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1330.41,
+          "end": 1343.82,
+          "description": "Plucked piano strings are mentioned as a different timbre; this remains an optional source example."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "demonstration_only",
+      "audience": [
+        "pianists"
+      ],
+      "skill": "universal color discrimination",
+      "source_instructions": [
+        "The instructor suggests plucking piano strings as another timbre."
+      ],
+      "materials": {
+        "instrument": "piano strings"
+      },
+      "presentation": "Plucked rather than normally struck piano-string sound.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 256,
+          "start": 1330.41,
+          "end": 1343.82,
+          "quote": "You can pluck your piano strings. It gives a whole different timbre to work with in order to encourage your universal color discrimination."
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [
+        "Retain as an optional source suggestion, not an app action or required hands-on assignment."
+      ],
+      "uncertainties": [
+        "The source supplies no access, instrument-care, or safe execution procedure."
+      ],
+      "app_adaptations": [
+        "Optional source example only, NOT executable instrument-care instructions. DO NOT access piano strings or modify an instrument based on app instructions. The source gives no safe access or care procedure. Consult a qualified piano technician for a safe alternative; use a suitable existing instrument/synthesizer sound instead. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Locate the optional plucked-piano-string timbre suggestion; no safe execution procedure is supplied.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1330.41,
+            "end": 1343.82,
+            "description": "Plucked piano strings are mentioned as a different timbre; this remains an optional source example."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Continue meditation and slowly imagine a score",
+      "description": "Continue imagining tones through the existing ear-training meditation. Read a musical score very slowly in the mind and feel each pitch inwardly. Continue the earlier gentle tone-imagination meditation. If you already read music, use an available score and imagine each pitch very slowly. No referenced handbook score, ear teaser, duration or notation is reconstructed here.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-24-p10",
+      "source_practice_id": "master-class-24-p10",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check the continuation of meditation and the slow mental score-reading option for aural recall.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1438.82,
+            "end": 1459.12,
+            "description": "Continue the existing tone-imagination meditation for recall."
+          },
+          {
+            "start": 1459.4,
+            "end": 1478.24,
+            "description": "Slowly read a score inwardly, feeling each pitch; the referenced handbook is not reconstructed here."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "all learners"
+        ],
+        "skill": "aural recall",
+        "source_instructions": [
+          "Continue imagining tones through the existing ear-training meditation.",
+          "Read a musical score very slowly in the mind and feel each pitch inwardly."
+        ],
+        "materials": {
+          "optional_material": "musical score"
+        },
+        "presentation": "Inward hearing using prior meditation technique or slow score reading.",
+        "response": "Mentally feel each pitch.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 273,
+            "start": 1438.82,
+            "end": 1441.46,
+            "quote": "So we want to develop our aural recall."
+          },
+          {
+            "segment_id": 274,
+            "start": 1441.92,
+            "end": 1446.56,
+            "quote": "You know what the key to this is, is the ear training meditation techniques that we've"
+          },
+          {
+            "segment_id": 275,
+            "start": 1446.56,
+            "end": 1447.04,
+            "quote": "been using."
+          },
+          {
+            "segment_id": 276,
+            "start": 1447.3,
+            "end": 1450.46,
+            "quote": "Now you'll begin to appreciate them more and more."
+          },
+          {
+            "segment_id": 277,
+            "start": 1450.92,
+            "end": 1458.1,
+            "quote": "The ear training meditation, when you're imagining the tones, this is your key to aural recall."
+          },
+          {
+            "segment_id": 278,
+            "start": 1458.1,
+            "end": 1459.12,
+            "quote": "So work with that."
+          },
+          {
+            "segment_id": 279,
+            "start": 1459.4,
+            "end": 1462.02,
+            "quote": "And look at your other ear teasers in your handbook."
+          },
+          {
+            "segment_id": 280,
+            "start": 1462.82,
+            "end": 1467.28,
+            "quote": "Notice the one about slowly reading a musical score in your mind."
+          },
+          {
+            "segment_id": 281,
+            "start": 1467.44,
+            "end": 1469.38,
+            "quote": "That's just like an ear training meditation technique."
+          },
+          {
+            "segment_id": 282,
+            "start": 1469.72,
+            "end": 1473.8,
+            "quote": "You go very slowly and you can feel each pitch in your mind."
+          },
+          {
+            "segment_id": 283,
+            "start": 1474.22,
+            "end": 1478.24,
+            "quote": "Just keep practicing and the aural recall will naturally come to you."
+          }
+        ],
+        "prerequisites": [
+          "Earlier meditation technique; score-reading ability for the score option."
+        ],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "The referred handbook ear teasers are not reconstructed from generated material; no score or duration is specified."
+        ],
+        "app_adaptations": [
+          "Continue the earlier gentle tone-imagination meditation. If you already read music, use an available score and imagine each pitch very slowly. No referenced handbook score, ear teaser, duration or notation is reconstructed here. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check the continuation of meditation and the slow mental score-reading option for aural recall.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1438.82,
+          "end": 1459.12,
+          "description": "Continue the existing tone-imagination meditation for recall."
+        },
+        {
+          "start": 1459.4,
+          "end": 1478.24,
+          "description": "Slowly read a score inwardly, feeling each pitch; the referenced handbook is not reconstructed here."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "all learners"
+      ],
+      "skill": "aural recall",
+      "source_instructions": [
+        "Continue imagining tones through the existing ear-training meditation.",
+        "Read a musical score very slowly in the mind and feel each pitch inwardly."
+      ],
+      "materials": {
+        "optional_material": "musical score"
+      },
+      "presentation": "Inward hearing using prior meditation technique or slow score reading.",
+      "response": "Mentally feel each pitch.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 273,
+          "start": 1438.82,
+          "end": 1441.46,
+          "quote": "So we want to develop our aural recall."
+        },
+        {
+          "segment_id": 274,
+          "start": 1441.92,
+          "end": 1446.56,
+          "quote": "You know what the key to this is, is the ear training meditation techniques that we've"
+        },
+        {
+          "segment_id": 275,
+          "start": 1446.56,
+          "end": 1447.04,
+          "quote": "been using."
+        },
+        {
+          "segment_id": 276,
+          "start": 1447.3,
+          "end": 1450.46,
+          "quote": "Now you'll begin to appreciate them more and more."
+        },
+        {
+          "segment_id": 277,
+          "start": 1450.92,
+          "end": 1458.1,
+          "quote": "The ear training meditation, when you're imagining the tones, this is your key to aural recall."
+        },
+        {
+          "segment_id": 278,
+          "start": 1458.1,
+          "end": 1459.12,
+          "quote": "So work with that."
+        },
+        {
+          "segment_id": 279,
+          "start": 1459.4,
+          "end": 1462.02,
+          "quote": "And look at your other ear teasers in your handbook."
+        },
+        {
+          "segment_id": 280,
+          "start": 1462.82,
+          "end": 1467.28,
+          "quote": "Notice the one about slowly reading a musical score in your mind."
+        },
+        {
+          "segment_id": 281,
+          "start": 1467.44,
+          "end": 1469.38,
+          "quote": "That's just like an ear training meditation technique."
+        },
+        {
+          "segment_id": 282,
+          "start": 1469.72,
+          "end": 1473.8,
+          "quote": "You go very slowly and you can feel each pitch in your mind."
+        },
+        {
+          "segment_id": 283,
+          "start": 1474.22,
+          "end": 1478.24,
+          "quote": "Just keep practicing and the aural recall will naturally come to you."
+        }
+      ],
+      "prerequisites": [
+        "Earlier meditation technique; score-reading ability for the score option."
+      ],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "The referred handbook ear teasers are not reconstructed from generated material; no score or duration is specified."
+      ],
+      "app_adaptations": [
+        "Continue the earlier gentle tone-imagination meditation. If you already read music, use an available score and imagine each pitch very slowly. No referenced handbook score, ear teaser, duration or notation is reconstructed here. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check the continuation of meditation and the slow mental score-reading option for aural recall.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1438.82,
+            "end": 1459.12,
+            "description": "Continue the existing tone-imagination meditation for recall."
+          },
+          {
+            "start": 1459.4,
+            "end": 1478.24,
+            "description": "Slowly read a score inwardly, feeling each pitch; the referenced handbook is not reconstructed here."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Final spaced single-tone recall verification",
+      "description": "From time to time, sing ONE tone from memory, then check with a sounding reference before reporting correct/incorrect. Final verification requires TWENTY CORRECT IN A ROW, not ten, nor twenty eventually. Progress persists across days. Log one attempt and close; return at leisure, without an arbitrary minimum interval.",
+      "maxHits": 20,
+      "practiceType": "SPACED_RECALL",
+      "practice_uid": "master-class-24-p11",
+      "source_practice_id": "master-class-24-p11",
+      "implementation_status": "implemented",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check the final spaced recall assignment and the explicit twenty-in-a-row completion wording.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1540.58,
+            "end": 1567.14,
+            "description": "Final assignment emphasizes recalled singing and recognition on other instruments."
+          },
+          {
+            "start": 1567.14,
+            "end": 1617.12,
+            "description": "Sing one tone and check it at leisure over one or many days; final verification is twenty consecutive correct recalls, without a stated tolerance."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "modified",
+        "audience": [
+          "all learners"
+        ],
+        "skill": "aural recall checked against a sounding reference",
+        "source_instructions": [
+          "From time to time during the day, sing one tone from memory, then check yourself.",
+          "This may be spread over many days.",
+          "Accumulate twenty correct examples in a row for the final verification round."
+        ],
+        "materials": {
+          "checking_reference": null
+        },
+        "presentation": "One recalled tone at a time, selected at leisure before checking.",
+        "response": "Sing a tone from memory, then verify it.",
+        "correction": null,
+        "completion": {
+          "kind": "verification_round",
+          "details": "Twenty consecutive correct single-tone recalls, potentially over many days. The later explicit in-a-row instruction qualifies the earlier twenty-times-correctly wording."
+        },
+        "evidence": [
+          {
+            "segment_id": 295,
+            "start": 1540.58,
+            "end": 1547.68,
+            "quote": "one last assignment. Work on your ear in various ways that we've discussed and"
+          },
+          {
+            "segment_id": 296,
+            "start": 1548.36,
+            "end": 1553.62,
+            "quote": "that you've picked up all throughout your training and focus now on your aural"
+          },
+          {
+            "segment_id": 297,
+            "start": 1553.62,
+            "end": 1561.4,
+            "quote": "recall. Learn to sing a tone from memory and work on your universal color"
+          },
+          {
+            "segment_id": 298,
+            "start": 1561.4,
+            "end": 1567.14,
+            "quote": "discrimination. Learn to hear tones on other instruments. This is a process that"
+          },
+          {
+            "segment_id": 299,
+            "start": 1567.14,
+            "end": 1578.58,
+            "quote": "takes its own time. For your aural recall, from time to time throughout a day,"
+          },
+          {
+            "segment_id": 300,
+            "start": 1578.74,
+            "end": 1584.02,
+            "quote": "whenever you feel like it, you can sing a tone and then check yourself. Just do one"
+          },
+          {
+            "segment_id": 301,
+            "start": 1584.02,
+            "end": 1590.78,
+            "quote": "tone. Sing a tone, check yourself, and when you've done this 20 times correctly,"
+          },
+          {
+            "segment_id": 302,
+            "start": 1590.78,
+            "end": 1597.6,
+            "quote": "correctly, that'll be your verification round. 20 times during the day. You can do this over"
+          },
+          {
+            "segment_id": 303,
+            "start": 1597.6,
+            "end": 1604.78,
+            "quote": "a period of many days. Just sing one tone, and if you get it right, that is one example"
+          },
+          {
+            "segment_id": 304,
+            "start": 1604.78,
+            "end": 1610.96,
+            "quote": "correctly. And when you get 20 in a row correctly, that will be your final verification round."
+          },
+          {
+            "segment_id": 305,
+            "start": 1611.18,
+            "end": 1617.12,
+            "quote": "Then I'm going to consider that you have graduated with honors from this Perfect Pitch Ear Training"
+          }
+        ],
+        "prerequisites": [
+          "Ongoing aural recall and universal color-discrimination work."
+        ],
+        "implementation_decisions": [
+          "Do not invent an accuracy tolerance, target-randomization requirement, reference device, or automated scoring rule."
+        ],
+        "uncertainties": [
+          "No definition of correct pitch or octave requirement is given.",
+          "The exact checking method is not specified in this final assignment."
+        ],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit.",
+          "App implementation contract: persistent consecutive-correct streak across days; an incorrect self-report resets the streak. A referenceCheck is required before a correct self-report. No microphone/autograding, invented pitch tolerance, octave requirement or minimum spacing. Show one target without sounding it first; close after a logged attempt, do not auto-next. Store local audit timestamps for attempts and reference checking. Generated targets/MIDI36–84 are optional app conveniences, not a source randomization mandate. Twenty consecutive checked self-reports constitute this app log, not independent verification of vocal correctness."
+        ]
+      },
+      "purpose": "Check the final spaced recall assignment and the explicit twenty-in-a-row completion wording.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 1540.58,
+          "end": 1567.14,
+          "description": "Final assignment emphasizes recalled singing and recognition on other instruments."
+        },
+        {
+          "start": 1567.14,
+          "end": 1617.12,
+          "description": "Sing one tone and check it at leisure over one or many days; final verification is twenty consecutive correct recalls, without a stated tolerance."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "modified",
+      "audience": [
+        "all learners"
+      ],
+      "skill": "aural recall checked against a sounding reference",
+      "source_instructions": [
+        "From time to time during the day, sing one tone from memory, then check yourself.",
+        "This may be spread over many days.",
+        "Accumulate twenty correct examples in a row for the final verification round."
+      ],
+      "materials": {
+        "checking_reference": null
+      },
+      "presentation": "One recalled tone at a time, selected at leisure before checking.",
+      "response": "Sing a tone from memory, then verify it.",
+      "correction": null,
+      "completion": {
+        "kind": "verification_round",
+        "details": "Twenty consecutive correct single-tone recalls, potentially over many days. The later explicit in-a-row instruction qualifies the earlier twenty-times-correctly wording."
+      },
+      "evidence": [
+        {
+          "segment_id": 295,
+          "start": 1540.58,
+          "end": 1547.68,
+          "quote": "one last assignment. Work on your ear in various ways that we've discussed and"
+        },
+        {
+          "segment_id": 296,
+          "start": 1548.36,
+          "end": 1553.62,
+          "quote": "that you've picked up all throughout your training and focus now on your aural"
+        },
+        {
+          "segment_id": 297,
+          "start": 1553.62,
+          "end": 1561.4,
+          "quote": "recall. Learn to sing a tone from memory and work on your universal color"
+        },
+        {
+          "segment_id": 298,
+          "start": 1561.4,
+          "end": 1567.14,
+          "quote": "discrimination. Learn to hear tones on other instruments. This is a process that"
+        },
+        {
+          "segment_id": 299,
+          "start": 1567.14,
+          "end": 1578.58,
+          "quote": "takes its own time. For your aural recall, from time to time throughout a day,"
+        },
+        {
+          "segment_id": 300,
+          "start": 1578.74,
+          "end": 1584.02,
+          "quote": "whenever you feel like it, you can sing a tone and then check yourself. Just do one"
+        },
+        {
+          "segment_id": 301,
+          "start": 1584.02,
+          "end": 1590.78,
+          "quote": "tone. Sing a tone, check yourself, and when you've done this 20 times correctly,"
+        },
+        {
+          "segment_id": 302,
+          "start": 1590.78,
+          "end": 1597.6,
+          "quote": "correctly, that'll be your verification round. 20 times during the day. You can do this over"
+        },
+        {
+          "segment_id": 303,
+          "start": 1597.6,
+          "end": 1604.78,
+          "quote": "a period of many days. Just sing one tone, and if you get it right, that is one example"
+        },
+        {
+          "segment_id": 304,
+          "start": 1604.78,
+          "end": 1610.96,
+          "quote": "correctly. And when you get 20 in a row correctly, that will be your final verification round."
+        },
+        {
+          "segment_id": 305,
+          "start": 1611.18,
+          "end": 1617.12,
+          "quote": "Then I'm going to consider that you have graduated with honors from this Perfect Pitch Ear Training"
+        }
+      ],
+      "prerequisites": [
+        "Ongoing aural recall and universal color-discrimination work."
+      ],
+      "implementation_decisions": [
+        "Do not invent an accuracy tolerance, target-randomization requirement, reference device, or automated scoring rule."
+      ],
+      "uncertainties": [
+        "No definition of correct pitch or octave requirement is given.",
+        "The exact checking method is not specified in this final assignment."
+      ],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit.",
+        "App implementation contract: persistent consecutive-correct streak across days; an incorrect self-report resets the streak. A referenceCheck is required before a correct self-report. No microphone/autograding, invented pitch tolerance, octave requirement or minimum spacing. Show one target without sounding it first; close after a logged attempt, do not auto-next. Store local audit timestamps for attempts and reference checking. Generated targets/MIDI36–84 are optional app conveniences, not a source randomization mandate. Twenty consecutive checked self-reports constitute this app log, not independent verification of vocal correctness."
+      ],
+      "formula": {
+        "selection": "single",
+        "note_count": 1,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "recall",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "spaced_recall",
+        "target": 20,
+        "assessment": "self_report",
+        "rounds": 1
+      },
+      "semitone_assistance": false,
+      "sourceInfo": {
+        "purpose": "Check the final spaced recall assignment and the explicit twenty-in-a-row completion wording.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 1540.58,
+            "end": 1567.14,
+            "description": "Final assignment emphasizes recalled singing and recognition on other instruments."
+          },
+          {
+            "start": 1567.14,
+            "end": 1617.12,
+            "description": "Sing one tone and check it at leisure over one or many days; final verification is twenty consecutive correct recalls, without a stated tolerance."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Optional — missing tone in a whole-tone scale",
+      "description": "Optional whole-tone version: identify the omitted note from a simultaneous generated scale. Excluded from mastery; no quota.",
+      "maxHits": 0,
+      "practiceType": "MISSING_TONE",
+      "practice_uid": "master-class-24-p03--whole_tone",
+      "source_practice_id": "master-class-24-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check the optional live missing-scale-tone challenge and its listening strategy.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 807.71,
+            "end": 861.67,
+            "description": "Live C-major scale with one omitted tone: find the root and climb mentally to the gap; do not decode the recording as a pitch test."
+          },
+          {
+            "start": 862.09,
+            "end": 876.56,
+            "description": "Whole-tone scales are another optional version, with A-sharp as a spoken omission example."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "introduced",
+        "audience": [
+          "advanced learners with a partner or live chord presentation"
+        ],
+        "skill": "auditory separation and missing-tone identification",
+        "source_instructions": [
+          "Use a whole C-major scale with one tone omitted.",
+          "Find its root and mentally climb the scale to find the absent tone.",
+          "Whole-tone scales are another option.",
+          "Work live rather than attempting to decode the recorded example."
+        ],
+        "materials": {
+          "scale_options": [
+            "C major",
+            "whole-tone scale"
+          ],
+          "omitted_tones": 1
+        },
+        "presentation": "Scale tones presented as a live combined sound with one omitted; G and A-sharp are example omissions, not fixed requirements.",
+        "response": "Identify the missing tone.",
+        "correction": null,
+        "completion": {
+          "kind": null,
+          "details": null
+        },
+        "evidence": [
+          {
+            "segment_id": 157,
+            "start": 807.71,
+            "end": 816.91,
+            "quote": "school. We do things like maybe take an entire C major scale, except we're leaving one tone"
+          },
+          {
+            "segment_id": 158,
+            "start": 816.91,
+            "end": 822.85,
+            "quote": "out. Don't try to hear this on this CD or this tape that you're listening to because"
+          },
+          {
+            "segment_id": 159,
+            "start": 822.85,
+            "end": 829.63,
+            "quote": "this is very hard to hear this. You have to kind of be live with this. But I've got C,"
+          },
+          {
+            "segment_id": 160,
+            "start": 829.63,
+            "end": 841.45,
+            "quote": "C, D, E, F, and I've skipped G, and then I've got A, B, and C. So what you have to do is"
+          },
+          {
+            "segment_id": 161,
+            "start": 841.45,
+            "end": 846.39,
+            "quote": "you have to listen very carefully and find the root of all those tones, which is the"
+          },
+          {
+            "segment_id": 162,
+            "start": 846.39,
+            "end": 856.07,
+            "quote": "C, and then climb up in your mind's ear until you don't hear one of the tones."
+          },
+          {
+            "segment_id": 163,
+            "start": 856.07,
+            "end": 861.67,
+            "quote": "The G is missing, and that is your challenge there, to find the missing tone."
+          },
+          {
+            "segment_id": 164,
+            "start": 862.09,
+            "end": 864.99,
+            "quote": "You can do this with whole tone scales as well."
+          },
+          {
+            "segment_id": 165,
+            "start": 867.97,
+            "end": 876.56,
+            "quote": "I've got a whole tone scale, except I've left out the A sharp."
+          },
+          {
+            "segment_id": 166,
+            "start": 878.26,
+            "end": 879.88,
+            "quote": "You just have to work with these."
+          },
+          {
+            "segment_id": 167,
+            "start": 880.14,
+            "end": 881.6,
+            "quote": "You may think they're impossible."
+          },
+          {
+            "segment_id": 168,
+            "start": 882.24,
+            "end": 883.5,
+            "quote": "They're not impossible."
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [
+          "Treat this as an optional ear teaser, not a required progression gate."
+        ],
+        "uncertainties": [
+          "Octave/voicing details beyond the spoken C-major example are not specified.",
+          "Spoken note labels do not verify the recording’s pitches."
+        ],
+        "app_adaptations": [
+          "Source-supported optional whole-tone variation. App voicing uses six unique notes at MIDI60/62/64/66/68/70 with exactly one omitted (five sounded); no doubled root, and no claim of exact recorded octave/voicing. A-sharp is a spoken example, not the sole omission. No note-help controls."
+        ]
+      },
+      "purpose": "Check the optional live missing-scale-tone challenge and its listening strategy.",
+      "source_lesson_id": "master-class-24",
+      "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+      "source_windows": [
+        {
+          "start": 807.71,
+          "end": 861.67,
+          "description": "Live C-major scale with one omitted tone: find the root and climb mentally to the gap; do not decode the recording as a pitch test."
+        },
+        {
+          "start": 862.09,
+          "end": 876.56,
+          "description": "Whole-tone scales are another optional version, with A-sharp as a spoken omission example."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "introduced",
+      "audience": [
+        "advanced learners with a partner or live chord presentation"
+      ],
+      "skill": "auditory separation and missing-tone identification",
+      "source_instructions": [
+        "Use a whole C-major scale with one tone omitted.",
+        "Find its root and mentally climb the scale to find the absent tone.",
+        "Whole-tone scales are another option.",
+        "Work live rather than attempting to decode the recorded example."
+      ],
+      "materials": {
+        "scale_options": [
+          "C major",
+          "whole-tone scale"
+        ],
+        "omitted_tones": 1
+      },
+      "presentation": "Scale tones presented as a live combined sound with one omitted; G and A-sharp are example omissions, not fixed requirements.",
+      "response": "Identify the missing tone.",
+      "correction": null,
+      "completion": {
+        "kind": null,
+        "details": null
+      },
+      "evidence": [
+        {
+          "segment_id": 157,
+          "start": 807.71,
+          "end": 816.91,
+          "quote": "school. We do things like maybe take an entire C major scale, except we're leaving one tone"
+        },
+        {
+          "segment_id": 158,
+          "start": 816.91,
+          "end": 822.85,
+          "quote": "out. Don't try to hear this on this CD or this tape that you're listening to because"
+        },
+        {
+          "segment_id": 159,
+          "start": 822.85,
+          "end": 829.63,
+          "quote": "this is very hard to hear this. You have to kind of be live with this. But I've got C,"
+        },
+        {
+          "segment_id": 160,
+          "start": 829.63,
+          "end": 841.45,
+          "quote": "C, D, E, F, and I've skipped G, and then I've got A, B, and C. So what you have to do is"
+        },
+        {
+          "segment_id": 161,
+          "start": 841.45,
+          "end": 846.39,
+          "quote": "you have to listen very carefully and find the root of all those tones, which is the"
+        },
+        {
+          "segment_id": 162,
+          "start": 846.39,
+          "end": 856.07,
+          "quote": "C, and then climb up in your mind's ear until you don't hear one of the tones."
+        },
+        {
+          "segment_id": 163,
+          "start": 856.07,
+          "end": 861.67,
+          "quote": "The G is missing, and that is your challenge there, to find the missing tone."
+        },
+        {
+          "segment_id": 164,
+          "start": 862.09,
+          "end": 864.99,
+          "quote": "You can do this with whole tone scales as well."
+        },
+        {
+          "segment_id": 165,
+          "start": 867.97,
+          "end": 876.56,
+          "quote": "I've got a whole tone scale, except I've left out the A sharp."
+        },
+        {
+          "segment_id": 166,
+          "start": 878.26,
+          "end": 879.88,
+          "quote": "You just have to work with these."
+        },
+        {
+          "segment_id": 167,
+          "start": 880.14,
+          "end": 881.6,
+          "quote": "You may think they're impossible."
+        },
+        {
+          "segment_id": 168,
+          "start": 882.24,
+          "end": 883.5,
+          "quote": "They're not impossible."
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [
+        "Treat this as an optional ear teaser, not a required progression gate."
+      ],
+      "uncertainties": [
+        "Octave/voicing details beyond the spoken C-major example are not specified.",
+        "Spoken note labels do not verify the recording’s pitches."
+      ],
+      "app_adaptations": [
+        "Source-supported optional whole-tone variation. App voicing uses six unique notes at MIDI60/62/64/66/68/70 with exactly one omitted (five sounded); no doubled root, and no claim of exact recorded octave/voicing. A-sharp is a spoken example, not the sole omission. No note-help controls."
+      ],
+      "missing_tone": {
+        "mode": "whole_tone",
+        "root_midi": 60
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": false,
+      "sourceInfo": {
+        "purpose": "Check the optional live missing-scale-tone challenge and its listening strategy.",
+        "source_lesson_id": "master-class-24",
+        "source_audio": "David Lucas Burge - Master Class 24 - The Perfect Pitch Ear Training SuperCourse [YaPVo0VHGs8].mp3",
+        "source_windows": [
+          {
+            "start": 807.71,
+            "end": 861.67,
+            "description": "Live C-major scale with one omitted tone: find the root and climb mentally to the gap; do not decode the recording as a pitch test."
+          },
+          {
+            "start": 862.09,
+            "end": 876.56,
+            "description": "Whole-tone scales are another optional version, with A-sharp as a spoken omission example."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    }
+  ]
+}

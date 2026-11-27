@@ -8,14 +8,38 @@
 [sub_resource type="StyleBoxEmpty" id=2]
 
 [sub_resource type="StyleBoxTexture" id=3]
+content_margin_left = 48.0
+content_margin_top = 36.0
+content_margin_right = 48.0
+content_margin_bottom = 64.0
+texture_margin_left = 64.0
+texture_margin_top = 48.0
+texture_margin_right = 64.0
+texture_margin_bottom = 64.0
 texture = ExtResource( 2 )
 region_rect = Rect2( 0, 0, 997, 225 )
 
 [sub_resource type="StyleBoxTexture" id=4]
+content_margin_left = 48.0
+content_margin_top = 36.0
+content_margin_right = 48.0
+content_margin_bottom = 64.0
+texture_margin_left = 64.0
+texture_margin_top = 48.0
+texture_margin_right = 64.0
+texture_margin_bottom = 64.0
 texture = ExtResource( 2 )
 region_rect = Rect2( 0, 0, 997, 225 )
 
 [sub_resource type="StyleBoxTexture" id=5]
+content_margin_left = 48.0
+content_margin_top = 36.0
+content_margin_right = 48.0
+content_margin_bottom = 64.0
+texture_margin_left = 64.0
+texture_margin_top = 48.0
+texture_margin_right = 64.0
+texture_margin_bottom = 64.0
 texture = ExtResource( 1 )
 region_rect = Rect2( 0, 0, 997, 225 )
 

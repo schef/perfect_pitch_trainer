@@ -1,0 +1,3696 @@
+{
+  "id": 23,
+  "title": "Masterclass 23",
+  "description": "Final Phase 2 consolidation: self-directed remediation by audience, not a newly fixed drill sequence.",
+  "practices": [
+    {
+      "id": 0,
+      "title": "Listen to masterclass",
+      "description": "Original source recording.",
+      "maxHits": 1,
+      "practiceType": "PLAYER",
+      "practice_uid": "master-class-23--player",
+      "link": "https://www.youtube.com/watch?v=-UBt5aS1k2Q"
+    },
+    {
+      "id": 1,
+      "title": "Comments",
+      "description": "Source and adaptation notes.",
+      "maxHits": 1,
+      "practiceType": "COMMENTS",
+      "practice_uid": "master-class-23--comments",
+      "text": "Source review: text_supported_audio_unverified. Source instructions and app adaptations are separated in Practice info / source. Optional practices are excluded from mastery. Manual logs do not establish correctness. See docs/CLASSES_22_24.md."
+    },
+    {
+      "id": 2,
+      "title": "Self-directed keyboard consolidation",
+      "description": "Rework any needed drills ad lib. Reach out and play one, two, or three tones and chords. If certain tones are confused, work those tones. Choose earlier keyboard drills and confused tones freely. Work with one, two or three tones/chords. Readiness is self-assessed; 100% accuracy is explicitly NOT required.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-23-p01",
+      "source_practice_id": "master-class-23-p01",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "solo keyboard"
+        ],
+        "skill": "identify tones and remediate confusions",
+        "source_instructions": [
+          "Rework any needed drills ad lib.",
+          "Reach out and play one, two, or three tones and chords.",
+          "If certain tones are confused, work those tones."
+        ],
+        "materials": {
+          "instrument": "keyboard",
+          "tone_counts": [
+            1,
+            2,
+            3
+          ]
+        },
+        "presentation": "Learner-selected earlier drills and target tones.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+        },
+        "evidence": [
+          {
+            "segment_id": 17,
+            "start": 134.71,
+            "end": 138.51,
+            "quote": "Solo keyboards, work with your drills"
+          },
+          {
+            "segment_id": 18,
+            "start": 138.51,
+            "end": 140.43,
+            "quote": "any way you feel you need to."
+          },
+          {
+            "segment_id": 19,
+            "start": 140.79,
+            "end": 144.75,
+            "quote": "Reach out, play any one, two, or three tones."
+          },
+          {
+            "segment_id": 20,
+            "start": 145.49,
+            "end": 147.81,
+            "quote": "Play chords, do this, do that,"
+          },
+          {
+            "segment_id": 21,
+            "start": 147.87,
+            "end": 150.49,
+            "quote": "whatever you feel you need to do, ad lib."
+          },
+          {
+            "segment_id": 22,
+            "start": 151.45,
+            "end": 154.17,
+            "quote": "You know where there's any weaknesses in your ears."
+          },
+          {
+            "segment_id": 23,
+            "start": 154.37,
+            "end": 157.39,
+            "quote": "If you're confusing certain tones, work with those tones."
+          },
+          {
+            "segment_id": 24,
+            "start": 157.39,
+            "end": 166.95,
+            "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No fixed count, time limit, or new trial protocol."
+        ],
+        "app_adaptations": [
+          "Choose earlier keyboard drills and confused tones freely. Work with one, two or three tones/chords. Readiness is self-assessed; 100% accuracy is explicitly NOT required. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 134.71,
+          "end": 166.95,
+          "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "solo keyboard"
+      ],
+      "skill": "identify tones and remediate confusions",
+      "source_instructions": [
+        "Rework any needed drills ad lib.",
+        "Reach out and play one, two, or three tones and chords.",
+        "If certain tones are confused, work those tones."
+      ],
+      "materials": {
+        "instrument": "keyboard",
+        "tone_counts": [
+          1,
+          2,
+          3
+        ]
+      },
+      "presentation": "Learner-selected earlier drills and target tones.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+      },
+      "evidence": [
+        {
+          "segment_id": 17,
+          "start": 134.71,
+          "end": 138.51,
+          "quote": "Solo keyboards, work with your drills"
+        },
+        {
+          "segment_id": 18,
+          "start": 138.51,
+          "end": 140.43,
+          "quote": "any way you feel you need to."
+        },
+        {
+          "segment_id": 19,
+          "start": 140.79,
+          "end": 144.75,
+          "quote": "Reach out, play any one, two, or three tones."
+        },
+        {
+          "segment_id": 20,
+          "start": 145.49,
+          "end": 147.81,
+          "quote": "Play chords, do this, do that,"
+        },
+        {
+          "segment_id": 21,
+          "start": 147.87,
+          "end": 150.49,
+          "quote": "whatever you feel you need to do, ad lib."
+        },
+        {
+          "segment_id": 22,
+          "start": 151.45,
+          "end": 154.17,
+          "quote": "You know where there's any weaknesses in your ears."
+        },
+        {
+          "segment_id": 23,
+          "start": 154.37,
+          "end": 157.39,
+          "quote": "If you're confusing certain tones, work with those tones."
+        },
+        {
+          "segment_id": 24,
+          "start": 157.39,
+          "end": 166.95,
+          "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No fixed count, time limit, or new trial protocol."
+      ],
+      "app_adaptations": [
+        "Choose earlier keyboard drills and confused tones freely. Work with one, two or three tones/chords. Readiness is self-assessed; 100% accuracy is explicitly NOT required. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Self-directed guitar reference weaning",
+      "description": "Extend the previous string work to B and E strings. Use two- and three-note chords. Go among A, D, G, B, E strings, adding more any tones between references and returning less often. Choose the drills according to your own judgment. On your guitar extend A/D/G work to B and E strings and two-/three-note chords. Gradually put more tones between references as needed. You choose when to return: there is no fixed reference cadence or automatically scheduled weaning sequence.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-23-p02",
+      "source_practice_id": "master-class-23-p02",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check how guitarists extend string work and gradually reduce dependence on reference tones.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 167.53,
+            "end": 227.67,
+            "description": "Extend to B/E strings and two-/three-note chords; add more tones between reference returns."
+          },
+          {
+            "start": 227.93,
+            "end": 267.09,
+            "description": "No fixed drill is assigned: use judgment, return to references less often, and work until the tones feel established."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "modified",
+        "audience": [
+          "solo guitar"
+        ],
+        "skill": "identify tones with decreasing reference dependence",
+        "source_instructions": [
+          "Extend the previous string work to B and E strings.",
+          "Use two- and three-note chords.",
+          "Go among A, D, G, B, E strings, adding more any tones between references and returning less often.",
+          "Choose the drills according to your own judgment."
+        ],
+        "materials": {
+          "instrument": "guitar",
+          "reference_strings": [
+            "A",
+            "D",
+            "G",
+            "B",
+            "E"
+          ],
+          "chord_sizes": [
+            2,
+            3
+          ]
+        },
+        "presentation": "Self-directed adaptation of existing string drills.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Work until you feel you have got the tones; no fixed drill is assigned."
+        },
+        "evidence": [
+          {
+            "segment_id": 25,
+            "start": 167.53,
+            "end": 176.81,
+            "quote": "Same with solo guitarists. You can see what to do. You see what we've done with our A string, our D string, and our G string."
+          },
+          {
+            "segment_id": 26,
+            "start": 177.47,
+            "end": 183.55,
+            "quote": "Now you can work your other strings. Work your B string the same way. Work your E strings the same way."
+          },
+          {
+            "segment_id": 27,
+            "start": 183.55,
+            "end": 190.73,
+            "quote": "Do two- and three-note chords. Do the same thing. Go back and forth between A string,"
+          },
+          {
+            "segment_id": 28,
+            "start": 190.99,
+            "end": 198.83,
+            "quote": "D string, G string, B string, and E string, and have the repetitions become less. Color"
+          },
+          {
+            "segment_id": 29,
+            "start": 198.83,
+            "end": 206.19,
+            "quote": "awareness is becoming grounded. Your ear has been thoroughly prepared. You'll figure out how to work"
+          },
+          {
+            "segment_id": 30,
+            "start": 206.19,
+            "end": 213.25,
+            "quote": "your strings in any way you need to gradually wean yourself from needing your reference tone."
+          },
+          {
+            "segment_id": 31,
+            "start": 213.25,
+            "end": 221.43,
+            "quote": "Every time we go back to our A string or our D string or our G string, then we're needing a reference tone."
+          },
+          {
+            "segment_id": 32,
+            "start": 222.2,
+            "end": 227.67,
+            "quote": "But add more tones in between your reference tones as you go."
+          },
+          {
+            "segment_id": 33,
+            "start": 227.93,
+            "end": 231.27,
+            "quote": "I'm not giving you any drill this time. This is all up to you now."
+          },
+          {
+            "segment_id": 34,
+            "start": 232.07,
+            "end": 236.15,
+            "quote": "It's your professional judgment at this point."
+          },
+          {
+            "segment_id": 35,
+            "start": 236.93,
+            "end": 239.81,
+            "quote": "Come back to your tones less and less."
+          },
+          {
+            "segment_id": 36,
+            "start": 239.81,
+            "end": 248.73,
+            "quote": "Add more any tones as you're going, because it's the any tones that are testing you for perfect pitch."
+          },
+          {
+            "segment_id": 37,
+            "start": 249.05,
+            "end": 254.61,
+            "quote": "You have to be skillful here, but I'm very confident that you can complete this drill."
+          },
+          {
+            "segment_id": 38,
+            "start": 254.79,
+            "end": 263.13,
+            "quote": "Work with your tones and your strings any way that you feel you need to until you feel you've got the tones."
+          },
+          {
+            "segment_id": 39,
+            "start": 263.55,
+            "end": 267.09,
+            "quote": "This is your final step to color discrimination."
+          }
+        ],
+        "prerequisites": [
+          "Previous A-, D-, and G-string work."
+        ],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No specified interval between references or numerical criterion."
+        ],
+        "app_adaptations": [
+          "On your guitar extend A/D/G work to B and E strings and two-/three-note chords. Gradually put more tones between references as needed. You choose when to return: there is no fixed reference cadence or automatically scheduled weaning sequence. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check how guitarists extend string work and gradually reduce dependence on reference tones.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 167.53,
+          "end": 227.67,
+          "description": "Extend to B/E strings and two-/three-note chords; add more tones between reference returns."
+        },
+        {
+          "start": 227.93,
+          "end": 267.09,
+          "description": "No fixed drill is assigned: use judgment, return to references less often, and work until the tones feel established."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "modified",
+      "audience": [
+        "solo guitar"
+      ],
+      "skill": "identify tones with decreasing reference dependence",
+      "source_instructions": [
+        "Extend the previous string work to B and E strings.",
+        "Use two- and three-note chords.",
+        "Go among A, D, G, B, E strings, adding more any tones between references and returning less often.",
+        "Choose the drills according to your own judgment."
+      ],
+      "materials": {
+        "instrument": "guitar",
+        "reference_strings": [
+          "A",
+          "D",
+          "G",
+          "B",
+          "E"
+        ],
+        "chord_sizes": [
+          2,
+          3
+        ]
+      },
+      "presentation": "Self-directed adaptation of existing string drills.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Work until you feel you have got the tones; no fixed drill is assigned."
+      },
+      "evidence": [
+        {
+          "segment_id": 25,
+          "start": 167.53,
+          "end": 176.81,
+          "quote": "Same with solo guitarists. You can see what to do. You see what we've done with our A string, our D string, and our G string."
+        },
+        {
+          "segment_id": 26,
+          "start": 177.47,
+          "end": 183.55,
+          "quote": "Now you can work your other strings. Work your B string the same way. Work your E strings the same way."
+        },
+        {
+          "segment_id": 27,
+          "start": 183.55,
+          "end": 190.73,
+          "quote": "Do two- and three-note chords. Do the same thing. Go back and forth between A string,"
+        },
+        {
+          "segment_id": 28,
+          "start": 190.99,
+          "end": 198.83,
+          "quote": "D string, G string, B string, and E string, and have the repetitions become less. Color"
+        },
+        {
+          "segment_id": 29,
+          "start": 198.83,
+          "end": 206.19,
+          "quote": "awareness is becoming grounded. Your ear has been thoroughly prepared. You'll figure out how to work"
+        },
+        {
+          "segment_id": 30,
+          "start": 206.19,
+          "end": 213.25,
+          "quote": "your strings in any way you need to gradually wean yourself from needing your reference tone."
+        },
+        {
+          "segment_id": 31,
+          "start": 213.25,
+          "end": 221.43,
+          "quote": "Every time we go back to our A string or our D string or our G string, then we're needing a reference tone."
+        },
+        {
+          "segment_id": 32,
+          "start": 222.2,
+          "end": 227.67,
+          "quote": "But add more tones in between your reference tones as you go."
+        },
+        {
+          "segment_id": 33,
+          "start": 227.93,
+          "end": 231.27,
+          "quote": "I'm not giving you any drill this time. This is all up to you now."
+        },
+        {
+          "segment_id": 34,
+          "start": 232.07,
+          "end": 236.15,
+          "quote": "It's your professional judgment at this point."
+        },
+        {
+          "segment_id": 35,
+          "start": 236.93,
+          "end": 239.81,
+          "quote": "Come back to your tones less and less."
+        },
+        {
+          "segment_id": 36,
+          "start": 239.81,
+          "end": 248.73,
+          "quote": "Add more any tones as you're going, because it's the any tones that are testing you for perfect pitch."
+        },
+        {
+          "segment_id": 37,
+          "start": 249.05,
+          "end": 254.61,
+          "quote": "You have to be skillful here, but I'm very confident that you can complete this drill."
+        },
+        {
+          "segment_id": 38,
+          "start": 254.79,
+          "end": 263.13,
+          "quote": "Work with your tones and your strings any way that you feel you need to until you feel you've got the tones."
+        },
+        {
+          "segment_id": 39,
+          "start": 263.55,
+          "end": 267.09,
+          "quote": "This is your final step to color discrimination."
+        }
+      ],
+      "prerequisites": [
+        "Previous A-, D-, and G-string work."
+      ],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No specified interval between references or numerical criterion."
+      ],
+      "app_adaptations": [
+        "On your guitar extend A/D/G work to B and E strings and two-/three-note chords. Gradually put more tones between references as needed. You choose when to return: there is no fixed reference cadence or automatically scheduled weaning sequence. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check how guitarists extend string work and gradually reduce dependence on reference tones.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 167.53,
+            "end": 227.67,
+            "description": "Extend to B/E strings and two-/three-note chords; add more tones between reference returns."
+          },
+          {
+            "start": 227.93,
+            "end": 267.09,
+            "description": "No fixed drill is assigned: use judgment, return to references less often, and work until the tones feel established."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Team random rounds and targeted backtracking",
+      "description": "Test one another in random rounds with all tones. Drill weaknesses, including difficult three-tone chords. Return to three diminished-seventh patterns or scales if helpful. Optionally redo comfortable lessons in a new key, for example E major. With a partner, identify random full-set tones and chords, remediate weaknesses and optionally revisit separate diminished patterns or scales in another key. Readiness is self-assessed; 100% accuracy is explicitly NOT required.",
+      "maxHits": 1,
+      "practiceType": "GUIDED_PRACTICE",
+      "practice_uid": "master-class-23-p03",
+      "source_practice_id": "master-class-23-p03",
+      "implementation_status": "manual",
+      "optional": false,
+      "excluded_from_mastery": false,
+      "info": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "teams"
+        ],
+        "skill": "full tone-set identification and remediation",
+        "source_instructions": [
+          "Test one another in random rounds with all tones.",
+          "Drill weaknesses, including difficult three-tone chords.",
+          "Return to three diminished-seventh patterns or scales if helpful.",
+          "Optionally redo comfortable lessons in a new key, for example E major."
+        ],
+        "materials": {
+          "tone_set": "All tones from the existing team progression"
+        },
+        "presentation": "Partner plays tones/chords; learner identifies them.",
+        "response": "Identify the tones.",
+        "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+        },
+        "evidence": [
+          {
+            "segment_id": 40,
+            "start": 268.93,
+            "end": 277.79,
+            "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+          },
+          {
+            "segment_id": 41,
+            "start": 277.79,
+            "end": 285.37,
+            "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+          },
+          {
+            "segment_id": 42,
+            "start": 285.37,
+            "end": 293.15,
+            "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+          },
+          {
+            "segment_id": 43,
+            "start": 293.15,
+            "end": 299.47,
+            "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+          },
+          {
+            "segment_id": 44,
+            "start": 299.47,
+            "end": 307.61,
+            "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+          },
+          {
+            "segment_id": 45,
+            "start": 308.35,
+            "end": 316.33,
+            "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+          },
+          {
+            "segment_id": 46,
+            "start": 316.33,
+            "end": 322.31,
+            "quote": "E major scale all over again. There's many different things that you can do. You can"
+          },
+          {
+            "segment_id": 47,
+            "start": 322.31,
+            "end": 328.01,
+            "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [],
+        "app_adaptations": [
+          "With a partner, identify random full-set tones and chords, remediate weaknesses and optionally revisit separate diminished patterns or scales in another key. Readiness is self-assessed; 100% accuracy is explicitly NOT required. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+        ]
+      },
+      "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 268.93,
+          "end": 328.01,
+          "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "teams"
+      ],
+      "skill": "full tone-set identification and remediation",
+      "source_instructions": [
+        "Test one another in random rounds with all tones.",
+        "Drill weaknesses, including difficult three-tone chords.",
+        "Return to three diminished-seventh patterns or scales if helpful.",
+        "Optionally redo comfortable lessons in a new key, for example E major."
+      ],
+      "materials": {
+        "tone_set": "All tones from the existing team progression"
+      },
+      "presentation": "Partner plays tones/chords; learner identifies them.",
+      "response": "Identify the tones.",
+      "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+      },
+      "evidence": [
+        {
+          "segment_id": 40,
+          "start": 268.93,
+          "end": 277.79,
+          "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+        },
+        {
+          "segment_id": 41,
+          "start": 277.79,
+          "end": 285.37,
+          "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+        },
+        {
+          "segment_id": 42,
+          "start": 285.37,
+          "end": 293.15,
+          "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+        },
+        {
+          "segment_id": 43,
+          "start": 293.15,
+          "end": 299.47,
+          "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+        },
+        {
+          "segment_id": 44,
+          "start": 299.47,
+          "end": 307.61,
+          "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+        },
+        {
+          "segment_id": 45,
+          "start": 308.35,
+          "end": 316.33,
+          "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+        },
+        {
+          "segment_id": 46,
+          "start": 316.33,
+          "end": 322.31,
+          "quote": "E major scale all over again. There's many different things that you can do. You can"
+        },
+        {
+          "segment_id": 47,
+          "start": 322.31,
+          "end": 328.01,
+          "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [],
+      "app_adaptations": [
+        "With a partner, identify random full-set tones and chords, remediate weaknesses and optionally revisit separate diminished patterns or scales in another key. Readiness is self-assessed; 100% accuracy is explicitly NOT required. Manual session logging is not an assessment or proof of mastery; no generated notes, microphone assessment, cents tolerance, timing or repetition quota is implied."
+      ],
+      "sourceInfo": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      },
+      "session": {
+        "kind": "manual",
+        "target": 1,
+        "assessment": "self_report"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Optional — keyboard consolidation — single",
+      "description": "Optional app naming adaptation; excluded from mastery. Rework any needed drills ad lib. Reach out and play one, two, or three tones and chords. If certain tones are confused, work those tones.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p01--single",
+      "source_practice_id": "master-class-23-p01",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "solo keyboard"
+        ],
+        "skill": "identify tones and remediate confusions",
+        "source_instructions": [
+          "Rework any needed drills ad lib.",
+          "Reach out and play one, two, or three tones and chords.",
+          "If certain tones are confused, work those tones."
+        ],
+        "materials": {
+          "instrument": "keyboard",
+          "tone_counts": [
+            1,
+            2,
+            3
+          ]
+        },
+        "presentation": "Learner-selected earlier drills and target tones.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+        },
+        "evidence": [
+          {
+            "segment_id": 17,
+            "start": 134.71,
+            "end": 138.51,
+            "quote": "Solo keyboards, work with your drills"
+          },
+          {
+            "segment_id": 18,
+            "start": 138.51,
+            "end": 140.43,
+            "quote": "any way you feel you need to."
+          },
+          {
+            "segment_id": 19,
+            "start": 140.79,
+            "end": 144.75,
+            "quote": "Reach out, play any one, two, or three tones."
+          },
+          {
+            "segment_id": 20,
+            "start": 145.49,
+            "end": 147.81,
+            "quote": "Play chords, do this, do that,"
+          },
+          {
+            "segment_id": 21,
+            "start": 147.87,
+            "end": 150.49,
+            "quote": "whatever you feel you need to do, ad lib."
+          },
+          {
+            "segment_id": 22,
+            "start": 151.45,
+            "end": 154.17,
+            "quote": "You know where there's any weaknesses in your ears."
+          },
+          {
+            "segment_id": 23,
+            "start": 154.37,
+            "end": 157.39,
+            "quote": "If you're confusing certain tones, work with those tones."
+          },
+          {
+            "segment_id": 24,
+            "start": 157.39,
+            "end": 166.95,
+            "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No fixed count, time limit, or new trial protocol."
+        ],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 134.71,
+          "end": 166.95,
+          "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "solo keyboard"
+      ],
+      "skill": "identify tones and remediate confusions",
+      "source_instructions": [
+        "Rework any needed drills ad lib.",
+        "Reach out and play one, two, or three tones and chords.",
+        "If certain tones are confused, work those tones."
+      ],
+      "materials": {
+        "instrument": "keyboard",
+        "tone_counts": [
+          1,
+          2,
+          3
+        ]
+      },
+      "presentation": "Learner-selected earlier drills and target tones.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+      },
+      "evidence": [
+        {
+          "segment_id": 17,
+          "start": 134.71,
+          "end": 138.51,
+          "quote": "Solo keyboards, work with your drills"
+        },
+        {
+          "segment_id": 18,
+          "start": 138.51,
+          "end": 140.43,
+          "quote": "any way you feel you need to."
+        },
+        {
+          "segment_id": 19,
+          "start": 140.79,
+          "end": 144.75,
+          "quote": "Reach out, play any one, two, or three tones."
+        },
+        {
+          "segment_id": 20,
+          "start": 145.49,
+          "end": 147.81,
+          "quote": "Play chords, do this, do that,"
+        },
+        {
+          "segment_id": 21,
+          "start": 147.87,
+          "end": 150.49,
+          "quote": "whatever you feel you need to do, ad lib."
+        },
+        {
+          "segment_id": 22,
+          "start": 151.45,
+          "end": 154.17,
+          "quote": "You know where there's any weaknesses in your ears."
+        },
+        {
+          "segment_id": 23,
+          "start": 154.37,
+          "end": 157.39,
+          "quote": "If you're confusing certain tones, work with those tones."
+        },
+        {
+          "segment_id": 24,
+          "start": 157.39,
+          "end": 166.95,
+          "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No fixed count, time limit, or new trial protocol."
+      ],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "single",
+        "note_count": 1,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "name",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Optional — keyboard consolidation — double harmonic",
+      "description": "Optional app naming adaptation; excluded from mastery. Rework any needed drills ad lib. Reach out and play one, two, or three tones and chords. If certain tones are confused, work those tones.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p01--double_harmonic",
+      "source_practice_id": "master-class-23-p01",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "solo keyboard"
+        ],
+        "skill": "identify tones and remediate confusions",
+        "source_instructions": [
+          "Rework any needed drills ad lib.",
+          "Reach out and play one, two, or three tones and chords.",
+          "If certain tones are confused, work those tones."
+        ],
+        "materials": {
+          "instrument": "keyboard",
+          "tone_counts": [
+            1,
+            2,
+            3
+          ]
+        },
+        "presentation": "Learner-selected earlier drills and target tones.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+        },
+        "evidence": [
+          {
+            "segment_id": 17,
+            "start": 134.71,
+            "end": 138.51,
+            "quote": "Solo keyboards, work with your drills"
+          },
+          {
+            "segment_id": 18,
+            "start": 138.51,
+            "end": 140.43,
+            "quote": "any way you feel you need to."
+          },
+          {
+            "segment_id": 19,
+            "start": 140.79,
+            "end": 144.75,
+            "quote": "Reach out, play any one, two, or three tones."
+          },
+          {
+            "segment_id": 20,
+            "start": 145.49,
+            "end": 147.81,
+            "quote": "Play chords, do this, do that,"
+          },
+          {
+            "segment_id": 21,
+            "start": 147.87,
+            "end": 150.49,
+            "quote": "whatever you feel you need to do, ad lib."
+          },
+          {
+            "segment_id": 22,
+            "start": 151.45,
+            "end": 154.17,
+            "quote": "You know where there's any weaknesses in your ears."
+          },
+          {
+            "segment_id": 23,
+            "start": 154.37,
+            "end": 157.39,
+            "quote": "If you're confusing certain tones, work with those tones."
+          },
+          {
+            "segment_id": 24,
+            "start": 157.39,
+            "end": 166.95,
+            "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No fixed count, time limit, or new trial protocol."
+        ],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 134.71,
+          "end": 166.95,
+          "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "solo keyboard"
+      ],
+      "skill": "identify tones and remediate confusions",
+      "source_instructions": [
+        "Rework any needed drills ad lib.",
+        "Reach out and play one, two, or three tones and chords.",
+        "If certain tones are confused, work those tones."
+      ],
+      "materials": {
+        "instrument": "keyboard",
+        "tone_counts": [
+          1,
+          2,
+          3
+        ]
+      },
+      "presentation": "Learner-selected earlier drills and target tones.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+      },
+      "evidence": [
+        {
+          "segment_id": 17,
+          "start": 134.71,
+          "end": 138.51,
+          "quote": "Solo keyboards, work with your drills"
+        },
+        {
+          "segment_id": 18,
+          "start": 138.51,
+          "end": 140.43,
+          "quote": "any way you feel you need to."
+        },
+        {
+          "segment_id": 19,
+          "start": 140.79,
+          "end": 144.75,
+          "quote": "Reach out, play any one, two, or three tones."
+        },
+        {
+          "segment_id": 20,
+          "start": 145.49,
+          "end": 147.81,
+          "quote": "Play chords, do this, do that,"
+        },
+        {
+          "segment_id": 21,
+          "start": 147.87,
+          "end": 150.49,
+          "quote": "whatever you feel you need to do, ad lib."
+        },
+        {
+          "segment_id": 22,
+          "start": 151.45,
+          "end": 154.17,
+          "quote": "You know where there's any weaknesses in your ears."
+        },
+        {
+          "segment_id": 23,
+          "start": 154.37,
+          "end": 157.39,
+          "quote": "If you're confusing certain tones, work with those tones."
+        },
+        {
+          "segment_id": 24,
+          "start": 157.39,
+          "end": 166.95,
+          "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No fixed count, time limit, or new trial protocol."
+      ],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "distinct",
+        "note_count": 2,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "name",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Optional — keyboard consolidation — triple harmonic",
+      "description": "Optional app naming adaptation; excluded from mastery. Rework any needed drills ad lib. Reach out and play one, two, or three tones and chords. If certain tones are confused, work those tones.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p01--triple_harmonic",
+      "source_practice_id": "master-class-23-p01",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "solo keyboard"
+        ],
+        "skill": "identify tones and remediate confusions",
+        "source_instructions": [
+          "Rework any needed drills ad lib.",
+          "Reach out and play one, two, or three tones and chords.",
+          "If certain tones are confused, work those tones."
+        ],
+        "materials": {
+          "instrument": "keyboard",
+          "tone_counts": [
+            1,
+            2,
+            3
+          ]
+        },
+        "presentation": "Learner-selected earlier drills and target tones.",
+        "response": null,
+        "correction": null,
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+        },
+        "evidence": [
+          {
+            "segment_id": 17,
+            "start": 134.71,
+            "end": 138.51,
+            "quote": "Solo keyboards, work with your drills"
+          },
+          {
+            "segment_id": 18,
+            "start": 138.51,
+            "end": 140.43,
+            "quote": "any way you feel you need to."
+          },
+          {
+            "segment_id": 19,
+            "start": 140.79,
+            "end": 144.75,
+            "quote": "Reach out, play any one, two, or three tones."
+          },
+          {
+            "segment_id": 20,
+            "start": 145.49,
+            "end": 147.81,
+            "quote": "Play chords, do this, do that,"
+          },
+          {
+            "segment_id": 21,
+            "start": 147.87,
+            "end": 150.49,
+            "quote": "whatever you feel you need to do, ad lib."
+          },
+          {
+            "segment_id": 22,
+            "start": 151.45,
+            "end": 154.17,
+            "quote": "You know where there's any weaknesses in your ears."
+          },
+          {
+            "segment_id": 23,
+            "start": 154.37,
+            "end": 157.39,
+            "quote": "If you're confusing certain tones, work with those tones."
+          },
+          {
+            "segment_id": 24,
+            "start": 157.39,
+            "end": 166.95,
+            "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [
+          "No fixed count, time limit, or new trial protocol."
+        ],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 134.71,
+          "end": 166.95,
+          "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "solo keyboard"
+      ],
+      "skill": "identify tones and remediate confusions",
+      "source_instructions": [
+        "Rework any needed drills ad lib.",
+        "Reach out and play one, two, or three tones and chords.",
+        "If certain tones are confused, work those tones."
+      ],
+      "materials": {
+        "instrument": "keyboard",
+        "tone_counts": [
+          1,
+          2,
+          3
+        ]
+      },
+      "presentation": "Learner-selected earlier drills and target tones.",
+      "response": null,
+      "correction": null,
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed when color discrimination feels fairly established; the closing guidance explicitly does not require 100% accuracy."
+      },
+      "evidence": [
+        {
+          "segment_id": 17,
+          "start": 134.71,
+          "end": 138.51,
+          "quote": "Solo keyboards, work with your drills"
+        },
+        {
+          "segment_id": 18,
+          "start": 138.51,
+          "end": 140.43,
+          "quote": "any way you feel you need to."
+        },
+        {
+          "segment_id": 19,
+          "start": 140.79,
+          "end": 144.75,
+          "quote": "Reach out, play any one, two, or three tones."
+        },
+        {
+          "segment_id": 20,
+          "start": 145.49,
+          "end": 147.81,
+          "quote": "Play chords, do this, do that,"
+        },
+        {
+          "segment_id": 21,
+          "start": 147.87,
+          "end": 150.49,
+          "quote": "whatever you feel you need to do, ad lib."
+        },
+        {
+          "segment_id": 22,
+          "start": 151.45,
+          "end": 154.17,
+          "quote": "You know where there's any weaknesses in your ears."
+        },
+        {
+          "segment_id": 23,
+          "start": 154.37,
+          "end": 157.39,
+          "quote": "If you're confusing certain tones, work with those tones."
+        },
+        {
+          "segment_id": 24,
+          "start": 157.39,
+          "end": 166.95,
+          "quote": "Just rework any drills, any way that you feel your ear needs to be trained. You are now the ear trainer."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [
+        "No fixed count, time limit, or new trial protocol."
+      ],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "distinct",
+        "note_count": 3,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "name",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check self-directed keyboard remediation and the qualitative readiness guidance for Phase 3.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 134.71,
+            "end": 166.95,
+            "description": "Choose earlier keyboard drills ad lib and work specifically on confused tones."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Proceed when discrimination feels established; 100% accuracy is explicitly not required."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Optional — team consolidation — single",
+      "description": "Optional app naming adaptation; excluded from mastery. Test one another in random rounds with all tones. Drill weaknesses, including difficult three-tone chords. Return to three diminished-seventh patterns or scales if helpful. Optionally redo comfortable lessons in a new key, for example E major.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p03--single",
+      "source_practice_id": "master-class-23-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "teams"
+        ],
+        "skill": "full tone-set identification and remediation",
+        "source_instructions": [
+          "Test one another in random rounds with all tones.",
+          "Drill weaknesses, including difficult three-tone chords.",
+          "Return to three diminished-seventh patterns or scales if helpful.",
+          "Optionally redo comfortable lessons in a new key, for example E major."
+        ],
+        "materials": {
+          "tone_set": "All tones from the existing team progression"
+        },
+        "presentation": "Partner plays tones/chords; learner identifies them.",
+        "response": "Identify the tones.",
+        "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+        },
+        "evidence": [
+          {
+            "segment_id": 40,
+            "start": 268.93,
+            "end": 277.79,
+            "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+          },
+          {
+            "segment_id": 41,
+            "start": 277.79,
+            "end": 285.37,
+            "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+          },
+          {
+            "segment_id": 42,
+            "start": 285.37,
+            "end": 293.15,
+            "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+          },
+          {
+            "segment_id": 43,
+            "start": 293.15,
+            "end": 299.47,
+            "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+          },
+          {
+            "segment_id": 44,
+            "start": 299.47,
+            "end": 307.61,
+            "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+          },
+          {
+            "segment_id": 45,
+            "start": 308.35,
+            "end": 316.33,
+            "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+          },
+          {
+            "segment_id": 46,
+            "start": 316.33,
+            "end": 322.31,
+            "quote": "E major scale all over again. There's many different things that you can do. You can"
+          },
+          {
+            "segment_id": 47,
+            "start": 322.31,
+            "end": 328.01,
+            "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 268.93,
+          "end": 328.01,
+          "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "teams"
+      ],
+      "skill": "full tone-set identification and remediation",
+      "source_instructions": [
+        "Test one another in random rounds with all tones.",
+        "Drill weaknesses, including difficult three-tone chords.",
+        "Return to three diminished-seventh patterns or scales if helpful.",
+        "Optionally redo comfortable lessons in a new key, for example E major."
+      ],
+      "materials": {
+        "tone_set": "All tones from the existing team progression"
+      },
+      "presentation": "Partner plays tones/chords; learner identifies them.",
+      "response": "Identify the tones.",
+      "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+      },
+      "evidence": [
+        {
+          "segment_id": 40,
+          "start": 268.93,
+          "end": 277.79,
+          "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+        },
+        {
+          "segment_id": 41,
+          "start": 277.79,
+          "end": 285.37,
+          "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+        },
+        {
+          "segment_id": 42,
+          "start": 285.37,
+          "end": 293.15,
+          "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+        },
+        {
+          "segment_id": 43,
+          "start": 293.15,
+          "end": 299.47,
+          "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+        },
+        {
+          "segment_id": 44,
+          "start": 299.47,
+          "end": 307.61,
+          "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+        },
+        {
+          "segment_id": 45,
+          "start": 308.35,
+          "end": 316.33,
+          "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+        },
+        {
+          "segment_id": 46,
+          "start": 316.33,
+          "end": 322.31,
+          "quote": "E major scale all over again. There's many different things that you can do. You can"
+        },
+        {
+          "segment_id": 47,
+          "start": 322.31,
+          "end": 328.01,
+          "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "single",
+        "note_count": 1,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "name",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Optional — team consolidation — double melodic",
+      "description": "Optional app naming adaptation; excluded from mastery. Test one another in random rounds with all tones. Drill weaknesses, including difficult three-tone chords. Return to three diminished-seventh patterns or scales if helpful. Optionally redo comfortable lessons in a new key, for example E major.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p03--double_melodic",
+      "source_practice_id": "master-class-23-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "teams"
+        ],
+        "skill": "full tone-set identification and remediation",
+        "source_instructions": [
+          "Test one another in random rounds with all tones.",
+          "Drill weaknesses, including difficult three-tone chords.",
+          "Return to three diminished-seventh patterns or scales if helpful.",
+          "Optionally redo comfortable lessons in a new key, for example E major."
+        ],
+        "materials": {
+          "tone_set": "All tones from the existing team progression"
+        },
+        "presentation": "Partner plays tones/chords; learner identifies them.",
+        "response": "Identify the tones.",
+        "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+        },
+        "evidence": [
+          {
+            "segment_id": 40,
+            "start": 268.93,
+            "end": 277.79,
+            "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+          },
+          {
+            "segment_id": 41,
+            "start": 277.79,
+            "end": 285.37,
+            "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+          },
+          {
+            "segment_id": 42,
+            "start": 285.37,
+            "end": 293.15,
+            "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+          },
+          {
+            "segment_id": 43,
+            "start": 293.15,
+            "end": 299.47,
+            "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+          },
+          {
+            "segment_id": 44,
+            "start": 299.47,
+            "end": 307.61,
+            "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+          },
+          {
+            "segment_id": 45,
+            "start": 308.35,
+            "end": 316.33,
+            "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+          },
+          {
+            "segment_id": 46,
+            "start": 316.33,
+            "end": 322.31,
+            "quote": "E major scale all over again. There's many different things that you can do. You can"
+          },
+          {
+            "segment_id": 47,
+            "start": 322.31,
+            "end": 328.01,
+            "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 268.93,
+          "end": 328.01,
+          "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "teams"
+      ],
+      "skill": "full tone-set identification and remediation",
+      "source_instructions": [
+        "Test one another in random rounds with all tones.",
+        "Drill weaknesses, including difficult three-tone chords.",
+        "Return to three diminished-seventh patterns or scales if helpful.",
+        "Optionally redo comfortable lessons in a new key, for example E major."
+      ],
+      "materials": {
+        "tone_set": "All tones from the existing team progression"
+      },
+      "presentation": "Partner plays tones/chords; learner identifies them.",
+      "response": "Identify the tones.",
+      "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+      },
+      "evidence": [
+        {
+          "segment_id": 40,
+          "start": 268.93,
+          "end": 277.79,
+          "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+        },
+        {
+          "segment_id": 41,
+          "start": 277.79,
+          "end": 285.37,
+          "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+        },
+        {
+          "segment_id": 42,
+          "start": 285.37,
+          "end": 293.15,
+          "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+        },
+        {
+          "segment_id": 43,
+          "start": 293.15,
+          "end": 299.47,
+          "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+        },
+        {
+          "segment_id": 44,
+          "start": 299.47,
+          "end": 307.61,
+          "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+        },
+        {
+          "segment_id": 45,
+          "start": 308.35,
+          "end": 316.33,
+          "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+        },
+        {
+          "segment_id": 46,
+          "start": 316.33,
+          "end": 322.31,
+          "quote": "E major scale all over again. There's many different things that you can do. You can"
+        },
+        {
+          "segment_id": 47,
+          "start": 322.31,
+          "end": 328.01,
+          "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "distinct",
+        "note_count": 2,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "sequential",
+        "direction": "random",
+        "response": "name",
+        "answer_order": "presentation_order"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Optional — team consolidation — double harmonic",
+      "description": "Optional app naming adaptation; excluded from mastery. Test one another in random rounds with all tones. Drill weaknesses, including difficult three-tone chords. Return to three diminished-seventh patterns or scales if helpful. Optionally redo comfortable lessons in a new key, for example E major.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p03--double_harmonic",
+      "source_practice_id": "master-class-23-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "teams"
+        ],
+        "skill": "full tone-set identification and remediation",
+        "source_instructions": [
+          "Test one another in random rounds with all tones.",
+          "Drill weaknesses, including difficult three-tone chords.",
+          "Return to three diminished-seventh patterns or scales if helpful.",
+          "Optionally redo comfortable lessons in a new key, for example E major."
+        ],
+        "materials": {
+          "tone_set": "All tones from the existing team progression"
+        },
+        "presentation": "Partner plays tones/chords; learner identifies them.",
+        "response": "Identify the tones.",
+        "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+        },
+        "evidence": [
+          {
+            "segment_id": 40,
+            "start": 268.93,
+            "end": 277.79,
+            "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+          },
+          {
+            "segment_id": 41,
+            "start": 277.79,
+            "end": 285.37,
+            "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+          },
+          {
+            "segment_id": 42,
+            "start": 285.37,
+            "end": 293.15,
+            "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+          },
+          {
+            "segment_id": 43,
+            "start": 293.15,
+            "end": 299.47,
+            "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+          },
+          {
+            "segment_id": 44,
+            "start": 299.47,
+            "end": 307.61,
+            "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+          },
+          {
+            "segment_id": 45,
+            "start": 308.35,
+            "end": 316.33,
+            "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+          },
+          {
+            "segment_id": 46,
+            "start": 316.33,
+            "end": 322.31,
+            "quote": "E major scale all over again. There's many different things that you can do. You can"
+          },
+          {
+            "segment_id": 47,
+            "start": 322.31,
+            "end": 328.01,
+            "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 268.93,
+          "end": 328.01,
+          "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "teams"
+      ],
+      "skill": "full tone-set identification and remediation",
+      "source_instructions": [
+        "Test one another in random rounds with all tones.",
+        "Drill weaknesses, including difficult three-tone chords.",
+        "Return to three diminished-seventh patterns or scales if helpful.",
+        "Optionally redo comfortable lessons in a new key, for example E major."
+      ],
+      "materials": {
+        "tone_set": "All tones from the existing team progression"
+      },
+      "presentation": "Partner plays tones/chords; learner identifies them.",
+      "response": "Identify the tones.",
+      "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+      },
+      "evidence": [
+        {
+          "segment_id": 40,
+          "start": 268.93,
+          "end": 277.79,
+          "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+        },
+        {
+          "segment_id": 41,
+          "start": 277.79,
+          "end": 285.37,
+          "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+        },
+        {
+          "segment_id": 42,
+          "start": 285.37,
+          "end": 293.15,
+          "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+        },
+        {
+          "segment_id": 43,
+          "start": 293.15,
+          "end": 299.47,
+          "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+        },
+        {
+          "segment_id": 44,
+          "start": 299.47,
+          "end": 307.61,
+          "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+        },
+        {
+          "segment_id": 45,
+          "start": 308.35,
+          "end": 316.33,
+          "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+        },
+        {
+          "segment_id": 46,
+          "start": 316.33,
+          "end": 322.31,
+          "quote": "E major scale all over again. There's many different things that you can do. You can"
+        },
+        {
+          "segment_id": 47,
+          "start": 322.31,
+          "end": 328.01,
+          "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "distinct",
+        "note_count": 2,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "name",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Optional — team consolidation — triple melodic",
+      "description": "Optional app naming adaptation; excluded from mastery. Test one another in random rounds with all tones. Drill weaknesses, including difficult three-tone chords. Return to three diminished-seventh patterns or scales if helpful. Optionally redo comfortable lessons in a new key, for example E major.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p03--triple_melodic",
+      "source_practice_id": "master-class-23-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "teams"
+        ],
+        "skill": "full tone-set identification and remediation",
+        "source_instructions": [
+          "Test one another in random rounds with all tones.",
+          "Drill weaknesses, including difficult three-tone chords.",
+          "Return to three diminished-seventh patterns or scales if helpful.",
+          "Optionally redo comfortable lessons in a new key, for example E major."
+        ],
+        "materials": {
+          "tone_set": "All tones from the existing team progression"
+        },
+        "presentation": "Partner plays tones/chords; learner identifies them.",
+        "response": "Identify the tones.",
+        "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+        },
+        "evidence": [
+          {
+            "segment_id": 40,
+            "start": 268.93,
+            "end": 277.79,
+            "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+          },
+          {
+            "segment_id": 41,
+            "start": 277.79,
+            "end": 285.37,
+            "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+          },
+          {
+            "segment_id": 42,
+            "start": 285.37,
+            "end": 293.15,
+            "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+          },
+          {
+            "segment_id": 43,
+            "start": 293.15,
+            "end": 299.47,
+            "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+          },
+          {
+            "segment_id": 44,
+            "start": 299.47,
+            "end": 307.61,
+            "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+          },
+          {
+            "segment_id": 45,
+            "start": 308.35,
+            "end": 316.33,
+            "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+          },
+          {
+            "segment_id": 46,
+            "start": 316.33,
+            "end": 322.31,
+            "quote": "E major scale all over again. There's many different things that you can do. You can"
+          },
+          {
+            "segment_id": 47,
+            "start": 322.31,
+            "end": 328.01,
+            "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 268.93,
+          "end": 328.01,
+          "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "teams"
+      ],
+      "skill": "full tone-set identification and remediation",
+      "source_instructions": [
+        "Test one another in random rounds with all tones.",
+        "Drill weaknesses, including difficult three-tone chords.",
+        "Return to three diminished-seventh patterns or scales if helpful.",
+        "Optionally redo comfortable lessons in a new key, for example E major."
+      ],
+      "materials": {
+        "tone_set": "All tones from the existing team progression"
+      },
+      "presentation": "Partner plays tones/chords; learner identifies them.",
+      "response": "Identify the tones.",
+      "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+      },
+      "evidence": [
+        {
+          "segment_id": 40,
+          "start": 268.93,
+          "end": 277.79,
+          "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+        },
+        {
+          "segment_id": 41,
+          "start": 277.79,
+          "end": 285.37,
+          "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+        },
+        {
+          "segment_id": 42,
+          "start": 285.37,
+          "end": 293.15,
+          "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+        },
+        {
+          "segment_id": 43,
+          "start": 293.15,
+          "end": 299.47,
+          "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+        },
+        {
+          "segment_id": 44,
+          "start": 299.47,
+          "end": 307.61,
+          "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+        },
+        {
+          "segment_id": 45,
+          "start": 308.35,
+          "end": 316.33,
+          "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+        },
+        {
+          "segment_id": 46,
+          "start": 316.33,
+          "end": 322.31,
+          "quote": "E major scale all over again. There's many different things that you can do. You can"
+        },
+        {
+          "segment_id": 47,
+          "start": 322.31,
+          "end": 328.01,
+          "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "distinct",
+        "note_count": 3,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "sequential",
+        "direction": "random",
+        "response": "name",
+        "answer_order": "presentation_order"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Optional — team consolidation — triple harmonic",
+      "description": "Optional app naming adaptation; excluded from mastery. Test one another in random rounds with all tones. Drill weaknesses, including difficult three-tone chords. Return to three diminished-seventh patterns or scales if helpful. Optionally redo comfortable lessons in a new key, for example E major.",
+      "maxHits": 0,
+      "practiceType": "PITCH_NAMING_DRILL",
+      "practice_uid": "master-class-23-p03--triple_harmonic",
+      "source_practice_id": "master-class-23-p03",
+      "implementation_status": "implemented",
+      "optional": true,
+      "excluded_from_mastery": true,
+      "info": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified",
+        "relationship": "continued",
+        "audience": [
+          "teams"
+        ],
+        "skill": "full tone-set identification and remediation",
+        "source_instructions": [
+          "Test one another in random rounds with all tones.",
+          "Drill weaknesses, including difficult three-tone chords.",
+          "Return to three diminished-seventh patterns or scales if helpful.",
+          "Optionally redo comfortable lessons in a new key, for example E major."
+        ],
+        "materials": {
+          "tone_set": "All tones from the existing team progression"
+        },
+        "presentation": "Partner plays tones/chords; learner identifies them.",
+        "response": "Identify the tones.",
+        "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+        "completion": {
+          "kind": "self_assessed",
+          "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+        },
+        "evidence": [
+          {
+            "segment_id": 40,
+            "start": 268.93,
+            "end": 277.79,
+            "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+          },
+          {
+            "segment_id": 41,
+            "start": 277.79,
+            "end": 285.37,
+            "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+          },
+          {
+            "segment_id": 42,
+            "start": 285.37,
+            "end": 293.15,
+            "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+          },
+          {
+            "segment_id": 43,
+            "start": 293.15,
+            "end": 299.47,
+            "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+          },
+          {
+            "segment_id": 44,
+            "start": 299.47,
+            "end": 307.61,
+            "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+          },
+          {
+            "segment_id": 45,
+            "start": 308.35,
+            "end": 316.33,
+            "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+          },
+          {
+            "segment_id": 46,
+            "start": 316.33,
+            "end": 322.31,
+            "quote": "E major scale all over again. There's many different things that you can do. You can"
+          },
+          {
+            "segment_id": 47,
+            "start": 322.31,
+            "end": 328.01,
+            "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+          },
+          {
+            "segment_id": 54,
+            "start": 364.15,
+            "end": 371.47,
+            "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+          },
+          {
+            "segment_id": 55,
+            "start": 372.35,
+            "end": 377.23,
+            "quote": "then you'll be able to pass on to our final session for Phase 3."
+          },
+          {
+            "segment_id": 56,
+            "start": 377.83,
+            "end": 381.69,
+            "quote": "Now you don't have to be absolutely 100% accurate."
+          },
+          {
+            "segment_id": 57,
+            "start": 382.17,
+            "end": 384.25,
+            "quote": "Don't think you can't ever make a mistake."
+          },
+          {
+            "segment_id": 58,
+            "start": 384.79,
+            "end": 388.83,
+            "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+          },
+          {
+            "segment_id": 59,
+            "start": 389.01,
+            "end": 389.91,
+            "quote": "That's not a problem."
+          },
+          {
+            "segment_id": 60,
+            "start": 390.25,
+            "end": 394.65,
+            "quote": "But when you feel you're pretty well established with your color discrimination,"
+          }
+        ],
+        "prerequisites": [],
+        "implementation_decisions": [],
+        "uncertainties": [],
+        "app_adaptations": [
+          "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+        ]
+      },
+      "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+      "source_lesson_id": "master-class-23",
+      "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+      "source_windows": [
+        {
+          "start": 268.93,
+          "end": 328.01,
+          "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+        },
+        {
+          "start": 364.15,
+          "end": 394.65,
+          "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+        }
+      ],
+      "review_status": "text_supported_audio_unverified",
+      "relationship": "continued",
+      "audience": [
+        "teams"
+      ],
+      "skill": "full tone-set identification and remediation",
+      "source_instructions": [
+        "Test one another in random rounds with all tones.",
+        "Drill weaknesses, including difficult three-tone chords.",
+        "Return to three diminished-seventh patterns or scales if helpful.",
+        "Optionally redo comfortable lessons in a new key, for example E major."
+      ],
+      "materials": {
+        "tone_set": "All tones from the existing team progression"
+      },
+      "presentation": "Partner plays tones/chords; learner identifies them.",
+      "response": "Identify the tones.",
+      "correction": "Target confused tones or difficult chords; backtrack to comfortable patterns or scales.",
+      "completion": {
+        "kind": "self_assessed",
+        "details": "Proceed to Phase 3 when color discrimination feels fairly established, not necessarily 100% accurate."
+      },
+      "evidence": [
+        {
+          "segment_id": 40,
+          "start": 268.93,
+          "end": 277.79,
+          "quote": "teams you can do random rounds with all tones you can backtrack to your three diminished seventh"
+        },
+        {
+          "segment_id": 41,
+          "start": 277.79,
+          "end": 285.37,
+          "quote": "patterns if you need to you can go back to scales if you want just test each other finally play"
+        },
+        {
+          "segment_id": 42,
+          "start": 285.37,
+          "end": 293.15,
+          "quote": "tones identify the tones if you find weaknesses with particular tones drill those areas if you"
+        },
+        {
+          "segment_id": 43,
+          "start": 293.15,
+          "end": 299.47,
+          "quote": "you find that three-tone chords are difficult in any way, maybe with the black, maybe with the"
+        },
+        {
+          "segment_id": 44,
+          "start": 299.47,
+          "end": 307.61,
+          "quote": "white tones, whatever. Work those areas. Smooth them out. And you can take a break and go to scales."
+        },
+        {
+          "segment_id": 45,
+          "start": 308.35,
+          "end": 316.33,
+          "quote": "Any scales. Instead of C major scale, you can work an E major scale. Do the whole lessons with an E"
+        },
+        {
+          "segment_id": 46,
+          "start": 316.33,
+          "end": 322.31,
+          "quote": "E major scale all over again. There's many different things that you can do. You can"
+        },
+        {
+          "segment_id": 47,
+          "start": 322.31,
+          "end": 328.01,
+          "quote": "backtrack to any comfortable lesson and rework the whole thing in a new key if you want."
+        },
+        {
+          "segment_id": 54,
+          "start": 364.15,
+          "end": 371.47,
+          "quote": "do this. When you each feel that perfect pitch, your color discrimination has opened"
+        },
+        {
+          "segment_id": 55,
+          "start": 372.35,
+          "end": 377.23,
+          "quote": "then you'll be able to pass on to our final session for Phase 3."
+        },
+        {
+          "segment_id": 56,
+          "start": 377.83,
+          "end": 381.69,
+          "quote": "Now you don't have to be absolutely 100% accurate."
+        },
+        {
+          "segment_id": 57,
+          "start": 382.17,
+          "end": 384.25,
+          "quote": "Don't think you can't ever make a mistake."
+        },
+        {
+          "segment_id": 58,
+          "start": 384.79,
+          "end": 388.83,
+          "quote": "In the beginning, when we first develop Perfect Pitch, we can be a little shaky."
+        },
+        {
+          "segment_id": 59,
+          "start": 389.01,
+          "end": 389.91,
+          "quote": "That's not a problem."
+        },
+        {
+          "segment_id": 60,
+          "start": 390.25,
+          "end": 394.65,
+          "quote": "But when you feel you're pretty well established with your color discrimination,"
+        }
+      ],
+      "prerequisites": [],
+      "implementation_decisions": [],
+      "uncertainties": [],
+      "app_adaptations": [
+        "App choice: generated MIDI 36–84, randomized targets and presentation order; source does not specify these exact bounds or distribution. Open practice has no success quota. Naming is an app response choice where the source leaves response unspecified; help is not verification credit."
+      ],
+      "formula": {
+        "selection": "distinct",
+        "note_count": 3,
+        "pitch_classes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "midi_min": 36,
+        "midi_max": 84,
+        "min_span": 0,
+        "max_span": 48,
+        "presentation": "simultaneous",
+        "direction": "ascending",
+        "response": "name",
+        "answer_order": "ascending_pitch"
+      },
+      "session": {
+        "kind": "open",
+        "target": 0,
+        "assessment": "keyboard"
+      },
+      "semitone_assistance": true,
+      "sourceInfo": {
+        "purpose": "Check partner-led remediation, backtracking options, and qualitative readiness rather than a new fixed quota.",
+        "source_lesson_id": "master-class-23",
+        "source_audio": "David Lucas Burge - Master Class 23 - The Perfect Pitch Ear Training SuperCourse [-UBt5aS1k2Q].mp3",
+        "source_windows": [
+          {
+            "start": 268.93,
+            "end": 328.01,
+            "description": "Random full-set rounds, difficult-tone/chord remediation, and optional return to patterns or scales in other keys."
+          },
+          {
+            "start": 364.15,
+            "end": 394.65,
+            "description": "Phase 3 readiness is felt stability, not a requirement of 100% accuracy."
+          }
+        ],
+        "review_status": "text_supported_audio_unverified"
+      }
+    }
+  ]
+}
